@@ -1,84 +1,59 @@
-Query,Date,user,Tweet,Img_present,Likes,commnets,retweet,tags,mentions,url_count,length
-pakistan,9:36 am · 19 Feb 2020,Richard Dawkins@RichardDawkins,Sharia is a barbaric legal system and Pakistan a disgrace to the world.,1,347,24,101,,,2
-pakistan,8:09 am · 19 Feb 2020,Aditya Raj Kaul@AdityaRajKaul,Pakistan Foreign Minister Shah Mahmood Qureshi is holding a press conference with British MPs of All Parties Parliamentary Group on Kashmir including Debbie Abrahams who was denied entry into India. Pakistan still won't be able to forcibly save Pakistan Occupied Kashmir (PoK).,0,907,30,161,,,0
-pakistan,8:00 am · 19 Feb 2020,Tarek Fatah@TarekFatah,"Can someone confirm this horrific story from the Islamic State of Pakistan? 
+Query,Date,user,Tweet,Img_present,Likes,commnets,retweet,tags,mentions,url_count,length,cosine_similarity(%)
+pakistan,5:38 am · 20 Feb 2020,Tarek Fatah@TarekFatah,"""Sharia is a 
+barbaric legal system.
+#Pakistan is a disgrace to the world"" - @RichardDawkins",1,1K,38,481,#Pakistan,@RichardDawkins,2,92,23.570226039551585
+pakistan,10:29 am · 20 Feb 2020,Waseem Malik@waseemalik65,"Good morning Pakistan
+Are you ready for PSL-5?",1,14,3,4,,,0,46,33.33333333333333
+pakistan,10:31 am · 20 Feb 2020,MR.D@lothbrokubbe,"When u born again in Pakistan
+You:-",0,9,2,7,,,0,35,37.79644730092272
+pakistan,5:59 am · 20 Feb 2020,M.Usama@MUsama58953435,"Beautiful People's And Beautiful Trophy.  
 
-Three brothers are accused of raping their 15-year-old Sister over a three-year period.",1,682,69,399,,,2
-pakistan,1:40 am · 19 Feb 2020,Muhammad Noman@Nomancricket29,Chris Lynn has reached Lahore Airport.Welcone in Pakistan #PSL5,1,589,11,35,#PSL5,,0
-pakistan,9:29 am · 19 Feb 2020,Hasnaat Malik@HasnaatMalik,Pakistan Bar Council has decided to file contempt petition against Attorney General for Pakistan Anwar Mansoor Khan and Law Minister Dr Farogh Naseem.,1,18,,14,,,0
-pakistan,6:57 am · 19 Feb 2020,Major Gaurav Arya (Retd)@majorgauravarya,"Speaker says “We are living in the Stone Age”. The only solution which will end this oppression is for the people of Gilgit Baltistan to rise in peaceful but open defiance against Pakistan. 
+Thank God all the PSL matches are happening in Pakistan:
+#PSL5ComesPakistan",0,11,1,2,#PSL5ComesPakistan,,0,119,22.941573387056174
+pakistan,10:00 am · 20 Feb 2020,SAAD@Imranist_01,"This is Karachi 
+This is national stadium of Pakistan 
+#PSL5
+#PSL2020
+#PSLV
+#HBLPSLV",0,45,3,14,"#PSL5,#PSL2020,#PSLV,#HBLPSLV",,0,84,24.253562503633297
+pakistan,5:47 am · 20 Feb 2020,Danish Khan@dk__december,"This Time For Pakistan 
+#PSL5ComesPakistan",0,13,1,2,#PSL5ComesPakistan,,0,42,44.721359549995796
+pakistan,10:59 am · 20 Feb 2020,YaSiF یَاسِفْ@IamYasif,President of Pakistan has inaugrated  #SibiMela2020,1,13,,12,#SibiMela2020,,0,51,40.824829046386306
+pakistan,3:53 am · 20 Feb 2020,Ehsasezindigi@ehsasezindigi,"""I left home in khaki and will come back in sabz hilali -- I have lost nothing but got everything that I desired"" Salam to the great hero of Pakistan Army Faiz Sultan Malik shaheed",1,14,,5,,,0,180,15.430334996209192
+pakistan,1:12 am · 20 Feb 2020,ملکہ گلگت بلتستان@AlishbaQ_Gul,"Pakistan justice system failed you 
+Sorry Sister Rubab
+#justiceforumerubab",1,23,,10,#justiceforumerubab,,0,74,33.33333333333333
+pakistan,8:06 am · 20 Feb 2020,مہوش بلوچ@M_Balochi3,"Peshawar Zalmi Chairman Javed Afridi, has requested President Arif Alvi to grant Sammy honorary citizenship of Pakistan .
+#psl5comespakistan",0,36,1,4,#psl5comespakistan,,0,140,23.570226039551585
+pakistan,10:59 pm · 19 Feb 2020,Srivatsa@srivatsayb,"Arnab 'Coward' Goswami, these traitors who were caught red-handed spying for Pakistan's ISI are the real TUKDE TUKDE gang
 
-Non violent civil disobedience is the key. Badshah Khan and Manzoor Pashteen style.",1,1.8K,80,541,,,0
-pakistan,8:57 am · 19 Feb 2020,Ghulam Abbas Shah@ghulamabbasshah,"#British MP #DebbieAbrahams who was not allowed in #India, is in #Pakistan. She will meet #Pakistan Foreign Minister @SMQureshiPTI, will visit #AzadKashmir, #LineOfControl, and hold a presser along with other members of All Parties Parliamentary Group on #Kashmir",1,205,2,65,"#British,#DebbieAbrahams,#India,#Pakistan,#Pakistan,#AzadKashmir,#LineOfControl,#Kashmir",@SMQureshiPTI,0
-pakistan,8:26 am · 19 Feb 2020,Saj Sadiq@Saj_PakPassion,#OnThisDay 2006. Pakistan beat India by 38 runs to win the Under-19 World Cup in Colombo. Pakistan were bowled out for 109 but bowled India out for only 71 in 18.5 overs with Anwar Ali bowling those huge inswingers and taking 5 for 35 #Cricket,1,576,14,73,"#OnThisDay,#Cricket",,0
-pakistan,1:06 am · 19 Feb 2020,António Guterres@antonioguterres,"I concluded my visit to Pakistan after enjoying the rich history and vibrant culture of Lahore - from the Lahore Fort, a @UNESCO World Heritage Site, to the majestic Badshahi mosque.
+Why are you silent about them and targeting Kanhaiya & women of Shaheen Bagh?
+ 
+PaidNazis @republic is trending #CantProtectTukdes & #ShaheenBaghChaos",0,925,36,410,"#CantProtectTukdes,#ShaheenBaghChaos",@republic,0,273,15.07556722888818
+pakistan,8:48 am · 20 Feb 2020,ThePakistan@ThePakistan01,"The biggest news of the Century, Sir Umar Akmal agreed to play psl in Pakistan.
+ #OPPOxPSL
+#PSL5",1,31,,4,"#OPPOxPSL,#PSL5",,0,96,22.941573387056174
+pakistan,5:46 am · 20 Feb 2020,Farha Perween@Farha_Perween,"#Noticeable
+1. List of Navy Sailors spying for Pakistan.
+(Most of them are upper caste)
 
-Thank you to the people of Pakistan for a wonderful visit!",1,5.4K,259,1.2K,,@UNESCO,0
-pakistan,8:12 am · 19 Feb 2020,FAHEEM LIAQAT PTI@fahimliaqat19,#PSL5 BIGGEST TOURNAMENT IN THE WORLD MOST WELCOME INTERNATIONAL PLAYERS  PAKISTAN ,1,13,,2,#PSL5,,0
-pakistan,2:07 am · 19 Feb 2020,Mahmood Khan Chachar@Mahmood51682279,"#PakistanArmy
-# congrats to pakistan air force for successfully conducting missile experience",1,32,1,7,#PakistanArmy,,0
-pakistan,7:45 am · 19 Feb 2020,PTI@PTIofficial,"Let the World know that #Pakistan is officially #1 destination for international tourists; Pakistan is one of the most beautiful country & it’s hospitality is remarkable. With #PTI Government focusing on boosting Tourism industry, country is witnessing high influx of tourists",0,454,5,129,"#Pakistan,#PTI",,0
-pakistan,9:03 am · 19 Feb 2020,Ashok Swain@ashoswai,"India's Loss, Pakistan's Gain!
-If Modi plans to keep Kashmir away from international attention in this way, he must be the biggest fool in town. But, he is not because he doesn't care about Kashmir, he only pampers to his Hindutva vote bank.",0,510,25,159,,,0
-pakistan,7:01 am · 19 Feb 2020,Shahzad Khan (شہزاد خان)@KhanShahzadzai,"#IndianArmyButcheringKashmir
- Human rights abuses in Kashmir is an issue connected to the territory's disputed and divided status with respect to the conflict between India and Pakistan.",1,12,,18,#IndianArmyButcheringKashmir,,0
-pakistan,12:00 am · 19 Feb 2020,ICC@ICC,"Test-best of * 
-2017 ICC Champions Trophy winner 
-Pakistan's fifth-highest run-scorer in Tests  
+2. List of CRPF Jawan died in Pulwama attack.
+(Most of them were lower caste)",1,66,1,30,#Noticeable,,0,166,14.142135623730951
+pakistan,8:22 am · 20 Feb 2020,Muhammad Zoraiz ur Rehman@UrZoraiz,"A brave pakistani , daughter of Pakistan is fighting a MPA of sindh who murdered her father, her uncle. She is just 23years old. We stand with you till the end
+#JusticeForUmeRubab",1,5,1,3,#JusticeForUmeRubab,,0,179,16.012815380508712
+pakistan,10:39 am · 20 Feb 2020,Green Team@greenteam1992,"*Umar Akmal suspended under PCB Anti-Corruption Code*
+ 
+The Pakistan Cricket Board today suspended Umar Akmal with immediate effect under Article 4.7.1* of the PCB Anti-Corruption Code, which means he cannot take part in any cricket-related activity pending the investigation.",1,6,,2,,,0,276,12.126781251816649
+pakistan,3:49 am · 20 Feb 2020,Wajahat Ali@WajahatAli,"My father is an immigrant from Pakistan who came to this country 50 years ago. He's not an alarmist. This is the first time he has repeatedly asked where's the ""escape plan"" for his brown, Muslim grandchildren. Where can they go & be safe? It's sobering that he's thinking this.",0,10.8K,1.1K,1.8K,,,0,278,10.846522890932809
+pakistan,10:16 pm · 19 Feb 2020,Syed Talat Hussain@TalatHussain12,Tariq Pasha (Ishaq Dar’s most trusted x FBR chairman) and Mujtaba Memon  (Hafeez Shaikh’s buddy) r 2 names for FBR. Haroon Akhtar (Nawaz’s special advisor on revenue) is the choice for the old slot. The circus rolls without shame. Building Imran’s Pakistan with Nawaz’s team.,0,3.2K,148,1.1K,,,0,275,11.043152607484654
+pakistan,10:25 pm · 19 Feb 2020,Debbie Abrahams@Debbie_abrahams,"Very pleased to meet with @PakPMO this pm & to be given assurances that we can meet with whoever we wish while in #Pakistan There was openness & transparency to some tough questioning of #ForeignMinisterQureshi as well on HR issues inc terrorism in 
+https://ohchr.org/Documents/Countries/IN/KashmirUpdateReport_8July2019.pdf…",1,1.9K,209,574,"#Pakistan,#ForeignMinisterQureshi",@PakPMO,1,325,12.216944435630522
+pakistan,1:09 am · 20 Feb 2020,Muhammad Noman@Nomancricket29,"Darren Sammy is getting Pakistan Nationality: @darensammy88 is getting PAKISTANI nationality.His services to bring International cricket in Pakistan is outstanding.
+:Javed Afridi .#PSL5",1,73,1,6,#PSL5,@darensammy88,0,185,33.33333333333333
+pakistan,10:12 am · 20 Feb 2020,Qamar Aziz@Gospel4Pakistan,Go and make disciples  Please prayer for Bibles and other mission's needs. Thanks! https://paypal.com/paypalme2/ministrysupp4Pak…,0,2,,1,,,1,129,0.0
+pakistan,10:38 pm · 19 Feb 2020,mohammad abbas@abbasbobo,"Two of the Patriotic citizen of Pakistan.
+#علی_والے_اسیر_کیوں",1,9,,9,#علی_والے_اسیر_کیوں,,0,61,31.622776601683793
+pakistan,9:11 am · 20 Feb 2020,Wazeer Ahmed Dayo@WazeerDayoPPP,#LAHORE Februray (19) A Delegation of Federal Union of Jornalists Called on Chairman Pakistan Peoples Party (PPP) Bilawal Bhutto Zardari at Bilawal House Lahore and discussed about Current Political Situation and Chairman ppp Show Solldarity PFUJ Member and Senior Jornalist imdad,1,7,,1,#LAHORE,,0,280,13.245323570650438
+pakistan,11:11 am · 20 Feb 2020,M. AHMAD@96MAHMAD,"Pakistan Cricket Board suspended Umar Akmal with immediate effect under Article 4.7.1 of the PCB Anti-Corruption Code, which means he cannot take part in any cricket-related activity.
 
-Happy birthday, @AzharAli_ ",0,4.1K,55,251,,@AzharAli_,0
-pakistan,7:03 am · 19 Feb 2020,mahi khan@maahi__khan,"""Kashmir is Jugular vein of Pakistan""
-We will fight for Kashmir till last soldier, last bullet and last breath
-(DGISPR)
-#IndianArmyButcheringKashmir",1,15,,11,#IndianArmyButcheringKashmir,,0
-pakistan,9:34 am · 19 Feb 2020,برھان یوسف @Burhan_Sethi,"These so called Ahmadis are trending in Pakistan.
-
-Every Muslim must take part in Emergency trend 
-#تاجدارختم_نبوت_زندەآباد",0,9,,9,#تاجدارختم_نبوت_زندەآباد,,0
-pakistan,9:43 am · 19 Feb 2020,Cynthia D. Ritchie@CynthiaDRitchie,"Such an honour to meet Kazi Manan while in DC! 
-
-A lovely human being - known world wide as an American Muslim from Jhelum, Pakistan, who feeds the needy in his DC restaurant.
-
-Bless you, Kazi. ",0,53,3,9,,,0
-pakistan,6:39 am · 19 Feb 2020,Lijian Zhao 赵立坚@zlj517,"China is highly concerned about the serious plague of locusts in Pakistan. Even at the critical moment of fighting COVID-19, China will send a locust control team composed of authoritative experts this week to help Pakistan formulate targeted plans & address this challenge.",1,227,21,54,,,0
-pakistan,7:29 am · 19 Feb 2020,"Prime Minister's Office, Pakistan@PakPMO","Mr. Sergi Herrero, Chief Operations Officer VEON/Jazz calls on Prime Minister @ImranKhanPTI. 
-
-Chairman BOI Syed Zubair Haider Gillani and Ms Tania Aidrus was also present. 
-
-#PMImranKhan",1,510,8,92,#PMImranKhan,@ImranKhanPTI,0
-pakistan,7:29 am · 19 Feb 2020,"Prime Minister's Office, Pakistan@PakPMO","Mr. Sergi Herrero, Chief Operations Officer VEON/Jazz calls on Prime Minister @ImranKhanPTI. 
-
-Chairman BOI Syed Zubair Haider Gillani and Ms Tania Aidrus was also present. 
-
-#PMImranKhan",1,510,8,92,#PMImranKhan,@ImranKhanPTI,0
-pakistan,5:43 am · 19 Feb 2020,Amit Malviya@amitmalviya,"Soon after the 26/11 terror attack, Congress leader Digvijaya Singh along with cheerleaders from Bollywood, at a book launch, which blamed the RSS said ‘Nowhere in this book you can see the involvement of Pakistani terrorists in 26/11’.
-
-Exactly what Pakistan wanted them to say?",1,5.4K,305,2.9K,,,0
-pakistan,9:11 am · 19 Feb 2020,Lahore Qalandars@lahoreqalandars,"The legendary @lynny50 is here in Lahore, Pakistan  for #HBLPSLV 
-#DamaDamMast #MainHoonQalandar #DilSe #Lynnsanity",1,602,23,86,"#HBLPSLV,#DamaDamMast,#MainHoonQalandar,#DilSe,#Lynnsanity",@lynny50,0
-pakistan,6:21 am · 19 Feb 2020,Faizan Lakhani@faizanlakhani,- @lynny50 of @lahoreqalandars and @dmalan29 of @IsbUnited arrive in Pakistan for PSL action.,1,1.4K,24,113,,"@lynny50,@lahoreqalandars,@dmalan29,@IsbUnited",0
-pakistan,7:57 am · 19 Feb 2020,Farzana Shah@Jana_Shah,"This is how agents of disinformation spread fake news without verification to peddle the ethnic fascism funded by anti-Pak states since over 50 years.
-The fake images @nidkirm is attributing to Pakistan are 3-years old (2016) from #Afghanistan NOT Pakistan.#VOA used these in 2018 ",1,118,5,77,"#Afghanistan,#VOA",@nidkirm,0
-pakistan,6:08 am · 19 Feb 2020,Warda Butt..@Mustandi12,"#KashmirStillOnFire 
-Kashmiri's love for Pakistan is very evident in these pictures. Even the martyrs' bodies are wrapped in Pakistani flag!",0,17,,68,#KashmirStillOnFire,,0
-pakistan,9:10 am · 19 Feb 2020,Sardar Adnan@sardar_adnann,"We are grateful to Pakistan and its people for their consistent moral and diplomatic support for Kashmir cause. Despite Pakistan itself facing numerous internal and external challenges, it never stopped supporting Kashmiri people @TeamPakZindabad
-#IndianArmyButcheringKashmir",1,7,,9,#IndianArmyButcheringKashmir,@TeamPakZindabad,0
-pakistan,7:50 am · 19 Feb 2020,Shayan.@ShayanKiJawani,"This is not Newyork, this is Pakistan but haters will say it's not Pakistan.",0,10,2,2,,,0
-pakistan,8:56 am · 19 Feb 2020,Faizan Ch@FaizanTiweets,Pakistan will rise again in leadership of @ImrankhanPTI @NabThedenist @AhmedJawadBhatt #NBC,1,4,,4,#NBC,@ImrankhanPTI,0
-pakistan,4:43 am · 19 Feb 2020,Dr David Frawley@davidfrawleyved,"AAP and Kejriwal honor Hanuman, support Ram Mandir and reintegration of Kashmir. But they oppose CAA that protects Hindu refugees from Pakistan, Afghanistan and Bangladesh. Have they no sympathy for oppressed Hindus outside of India?",0,2.4K,77,651,,,0
-pakistan,7:57 am · 19 Feb 2020,Bilal khanii@BilalKhanii,"#RestoreGomalUniStudents
-As you can see in picture police is beating the students and forcely putting them behind the bars. More than 30 students are under FIR some of them were not present in the protest but they get FIR'ed. This is the system of education in pakistan.",1,2,,2,#RestoreGomalUniStudents,,0
-pakistan,8:12 am · 19 Feb 2020,Left Arm Phast@zeetweets_,"welcome to Pakistan, Chris Lynn. hope to see you set the tournament alight #PSL5",0,15,3,,#PSL5,,0
-pakistan,9:47 am · 19 Feb 2020,Pakistani_Tiger@Pk_2526,"These so called Ahmadis are trending in Pakistan.
-
-Every Muslim must take part in Emergency trend 
-
-#تاجدارختم_نبوت_زندەآباد",1,,,,#تاجدارختم_نبوت_زندەآباد,,0
-pakistan,8:01 am · 19 Feb 2020,Shahzad Saleem Abbasi@ShahzadSaleema,Ahmadis are non-muslims according to the Constitution of Pakistan but they said that they are Muslims . If they accept them as a non Muslims then problem will be solved .Then they can live as minority in Pakistan with dignity as other minorities are living. copied,1,69,17,10,,,0
-pakistan,4:25 am · 19 Feb 2020,nope@sheikhityaar,Still no comment. Probably doesn’t want to scare the foreign cricketers in Pakistan for the PSL. Their image of Pakistan is far more important than concern/empathy for Pakistanis,0,6,,4,,,0
-pakistan,8:14 am · 19 Feb 2020,Pakistan Cricket @PakistanCric10,"Only 1 day to go!!! 
-
-Pakistanis are you ready? 
-#HBLPSLV | #PSL2020 | #TayyarHain",0,26,,3,"#HBLPSLV,#PSL2020,#TayyarHain",,0
-pakistan,5:55 am · 19 Feb 2020,‏پـــری زاد اُجــالا@Ujalapariujala,"UN Secretary General on his visit to PAKISTAN.
-#KashmirStillOnFire",0,5,,33,#KashmirStillOnFire,,0
+#umarakmal",1,1,,,#umarakmal,,0,195,17.14985851425088
