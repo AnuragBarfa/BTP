@@ -1,10 +1,17 @@
 import tweepy
 import csv
-auth = tweepy.OAuthHandler('5QUCmsZc97JKVhSW7UqB4PmGO', 'Szv1qILgFywnl1IbLakJDIqbt44unJOXWEWY7iZ2ksw6WZvDjx')
-auth.set_access_token('1159073576495923200-s1eAfxDF86zf9J7brJoe2CEFwU0UW0', 'sxA356gk2uPJFU5iIyoB2yKLUrAbnvZpSGV9cRtqzEWb7')
-
-api = tweepy.API(auth)
-query='kohli'
+from random import randint
+# {'key':,'secret_key':,'token':,'secret_token':}
+token_key=[{'key':'5QUCmsZc97JKVhSW7UqB4PmGO','secret_key':'Szv1qILgFywnl1IbLakJDIqbt44unJOXWEWY7iZ2ksw6WZvDjx','token':'1159073576495923200-s1eAfxDF86zf9J7brJoe2CEFwU0UW0','secret_token':'sxA356gk2uPJFU5iIyoB2yKLUrAbnvZpSGV9cRtqzEWb7'},{'key':'WHA3Dpyy8AhMNQFrE7D3EwrH9','secret_key':'oHEBJix7EscXtRqUxYmlxvAaiAFEnxtJzIBQfzftLVQI0FfEeN','token':'815426016348950529-QHRqqAbzokTGHaHrXRg3bbdzs3c0WCD','secret_token':'mdlx2wo8WLg4rGKLoezkDfnvUk7OZN1EzNQ1a21045SvX'}]
+no_of_keys=len(token_key)
+apis=[]
+for i in range(0,no_of_keys):
+    auth = tweepy.OAuthHandler(token_key[i]['key'], token_key[i]['secret_key'])
+    auth.set_access_token(token_key[i]['token'], token_key[i]['secret_token'])
+    api = tweepy.API(auth)
+    apis.append(api)
+query='T20 India'
+current_api=randint(0,no_of_keys-1)
 # user = api.get_user('AshishR66701786')
 # print user.verified
 # print user.listed_count
@@ -35,6 +42,13 @@ def convertToNumber(x):
     x=int(float(x)*multiplier)
     return x
 
+def handle_hits(no_of_hits,current_api,no_of_keys):
+    no_of_hits=no_of_hits+1
+    if no_of_hits>50:
+        return 0,(current_api+1)%no_of_keys
+    else:
+        return no_of_hits,current_api
+no_of_hits=0
 with open('sample_'+query+'.csv', mode='r') as sample:
     sample_reader = csv.reader(sample, delimiter=',')
     cnt =0
@@ -49,7 +63,9 @@ with open('sample_'+query+'.csv', mode='r') as sample:
                 x = tuser.split("@")
                 print x
                 try:
-                    user = api.get_user(x[len(x)-1])
+                    user = apis[current_api].get_user(x[len(x)-1])
+                    no_of_hits,current_api=handle_hits(no_of_hits,current_api,no_of_keys)
+
                 except:
                     user ={'created_at':'NA','verified':0,'followers_count':0,'friends_count':0,'listed_count':0}
                     user =dotdict(user)
@@ -61,7 +77,8 @@ with open('sample_'+query+'.csv', mode='r') as sample:
                     for mention in mentions:
                         mention = mention[1:len(mention)]
 #                       print mention
-                        u = api.get_user(mention)
+                        u = apis[current_api].get_user(mention)
+                        no_of_hits,current_api=handle_hits(no_of_hits,current_api,no_of_keys)
                         sum1+=u.followers_count
 #                         print sum1
                 sample_writer.writerow([row[0],row[2],user.created_at,convertToNumber(user.verified),convertToNumber(user.followers_count),convertToNumber(user.friends_count),convertToNumber(user.listed_count),row[3],row[1],convertToNumber(row[4]),convertToNumber(row[5]),convertToNumber(row[6]),convertToNumber(row[7]),row[8],row[9],convertToNumber(sum1),convertToNumber(row[10])])
