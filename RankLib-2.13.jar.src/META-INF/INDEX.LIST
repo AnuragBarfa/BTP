@@ -1,0 +1,20 @@
+JarIndex-Version: 1.0
+
+RankLib-2.13.jar
+META-INF
+META-INF/maven
+META-INF/maven/edu.umass.ciir
+META-INF/maven/edu.umass.ciir/RankLib
+ciir
+ciir/umass
+ciir/umass/edu
+ciir/umass/edu/eval
+ciir/umass/edu/features
+ciir/umass/edu/learning
+ciir/umass/edu/learning/boosting
+ciir/umass/edu/learning/neuralnet
+ciir/umass/edu/learning/tree
+ciir/umass/edu/metric
+ciir/umass/edu/stats
+ciir/umass/edu/utilities
+
