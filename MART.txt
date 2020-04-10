@@ -1,0 +1,77 @@
+## MART
+## No. of trees = 1000
+## No. of leaves = 10
+## No. of threshold candidates = 256
+## Learning rate = 0.1
+## Stop early = 100
+
+<ensemble>
+	<tree id="1" weight="0.1">
+		<split>
+			<feature> 13 </feature>
+			<threshold> 0.13917764 </threshold>
+			<split pos="left">
+				<feature> 13 </feature>
+				<threshold> -0.69769704 </threshold>
+				<split pos="left">
+					<feature> 13 </feature>
+					<threshold> -1.3153905 </threshold>
+					<split pos="left">
+						<output> 8.745283126831055 </output>
+					</split>
+					<split pos="right">
+						<output> 7.404918193817139 </output>
+					</split>
+				</split>
+				<split pos="right">
+					<feature> 13 </feature>
+					<threshold> -0.37888753 </threshold>
+					<split pos="left">
+						<output> 5.969696998596191 </output>
+					</split>
+					<split pos="right">
+						<feature> 13 </feature>
+						<threshold> -0.15970607 </threshold>
+						<split pos="left">
+							<output> 5.239819049835205 </output>
+						</split>
+						<split pos="right">
+							<output> 4.560897350311279 </output>
+						</split>
+					</split>
+				</split>
+			</split>
+			<split pos="right">
+				<feature> 13 </feature>
+				<threshold> 0.7767966 </threshold>
+				<split pos="left">
+					<feature> 13 </feature>
+					<threshold> 0.29858232 </threshold>
+					<split pos="left">
+						<output> 3.848341226577759 </output>
+					</split>
+					<split pos="right">
+						<output> 2.8497536182403564 </output>
+					</split>
+				</split>
+				<split pos="right">
+					<feature> 13 </feature>
+					<threshold> 1.1753085 </threshold>
+					<split pos="left">
+						<feature> 13 </feature>
+						<threshold> 0.91627574 </threshold>
+						<split pos="left">
+							<output> 1.252252221107483 </output>
+						</split>
+						<split pos="right">
+							<output> 2.047445297241211 </output>
+						</split>
+					</split>
+					<split pos="right">
+						<output> 0.49393415451049805 </output>
+					</split>
+				</split>
+			</split>
+		</split>
+	</tree>
+</ensemble>

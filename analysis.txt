@@ -1,0 +1,30 @@
+Reading output/cordinate.txt... 6 ranked lists [Done]
+Reading output/AdaRank.txt... 6 ranked lists [Done]
+Reading output/lambdaMart.txt... 6 ranked lists [Done]
+Reading output/MART.txt... 6 ranked lists [Done]
+Reading output/randomForest.txt... 6 ranked lists [Done]
+Reading output/rankBoost.txt... 6 ranked lists [Done]
+Reading output/rankNet.txt... 6 ranked lists [Done]
+
+
+Overall comparison
+------------------------------------------------------------------------
+System	Performance	Improvement	Win	Loss	p-value
+cordinate.txt [baseline]	0.6284
+AdaRank.txt	0.7874	+0.159 (+25.3%)	5	0	0.0309
+lambdaMart.txt	0.9941	+0.3657 (+58.19%)	5	0	0.0343
+MART.txt	0.9606	+0.3322 (+52.85%)	4	1	0.0613
+randomForest.txt	0.9674	+0.339 (+53.94%)	5	0	0.0312
+rankBoost.txt	0.8494	+0.2209 (+35.16%)	4	1	0.0669
+rankNet.txt	0.9778	+0.3494 (+55.6%)	4	1	0.0664
+
+
+Detailed break down
+------------------------------------------------------------------------
+	[ < -100%)	[-100%, -75%)	[-75%, -50%)	[-50%, -25%)	[-25%, 0%)	(0%, +25%]	(+25%, +50%]	(+50%, +75%]	(+75%, +100%]	( > +100%]
+AdaRank.txt	0	0	0	0	0	4	1	0	0	0
+lambdaMart.txt	0	0	0	0	0	2	2	0	1	0
+MART.txt	0	0	0	0	1	1	2	0	1	0
+randomForest.txt	0	0	0	0	0	3	1	1	0	0
+rankBoost.txt	0	0	0	0	1	2	1	1	0	0
+rankNet.txt	0	0	0	0	1	1	2	0	1	0
