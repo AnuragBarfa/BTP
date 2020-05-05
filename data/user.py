@@ -10,7 +10,7 @@ for i in range(0,no_of_keys):
     auth.set_access_token(token_key[i]['token'], token_key[i]['secret_token'])
     api = tweepy.API(auth)
     apis.append(api)
-query='coronavirus'
+query='once upon a time'
 current_api=randint(0,no_of_keys-1)
 # user = api.get_user('AshishR66701786')
 # print user.verified
@@ -87,5 +87,7 @@ with open('sample_'+query+'.csv', mode='r') as sample:
                 sample_writer.writerow([row[0],row[2],user.created_at,convertToNumber(user.verified),convertToNumber(user.followers_count),convertToNumber(user.friends_count),convertToNumber(user.listed_count),row[3],row[1],convertToNumber(row[4]),convertToNumber(row[5]),convertToNumber(row[6]),convertToNumber(row[7]),row[8],row[9],convertToNumber(sum1),convertToNumber(row[10])])
             cnt+=1
             print cnt
+
+
 
 
