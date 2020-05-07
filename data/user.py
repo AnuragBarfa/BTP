@@ -10,7 +10,7 @@ for i in range(0,no_of_keys):
     auth.set_access_token(token_key[i]['token'], token_key[i]['secret_token'])
     api = tweepy.API(auth)
     apis.append(api)
-query='once upon a time'
+query='netflix'
 current_api=randint(0,no_of_keys-1)
 # user = api.get_user('AshishR66701786')
 # print user.verified
