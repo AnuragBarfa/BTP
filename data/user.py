@@ -10,7 +10,7 @@ for i in range(0,no_of_keys):
     auth.set_access_token(token_key[i]['token'], token_key[i]['secret_token'])
     api = tweepy.API(auth)
     apis.append(api)
-query='4 Years of FAN'
+query='liqour'	
 current_api=randint(0,no_of_keys-1)
 # user = api.get_user('AshishR66701786')
 # print user.verified
@@ -60,7 +60,6 @@ with open('sample_'+query+'.csv', mode='r') as sample:
                     "likes","comments","retweets","tags","mentions","sum_followers_mention","url_count"])
             else :
                 tuser = row[2]
-                print tuser
                 x = tuser.split("@")
                 print x
                 try:
@@ -68,7 +67,6 @@ with open('sample_'+query+'.csv', mode='r') as sample:
                     no_of_hits,current_api=handle_hits(no_of_hits,current_api,no_of_keys)
 
                 except:
-                    print("fault")
                     user ={'created_at':'NA','verified':0,'followers_count':0,'friends_count':0,'listed_count':0}
                     user =dotdict(user)
                 mentions = []
