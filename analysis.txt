@@ -1,27 +1,27 @@
-Reading output2/AdaRank.txt... 5 ranked lists [Done]
-Reading output2/lambdaMart.txt... 5 ranked lists [Done]
-Reading output2/listnet.txt... 5 ranked lists [Done]
-Reading output2/randomForest.txt... 5 ranked lists [Done]
-Reading output2/rankBoost.txt... 5 ranked lists [Done]
-Reading output2/rankNet.txt... 5 ranked lists [Done]
+Reading output/AdaRank.txt... 5 ranked lists [Done]
+Reading output/lambdaMart.txt... 5 ranked lists [Done]
+Reading output/listnet.txt... 5 ranked lists [Done]
+Reading output/randomForest.txt... 5 ranked lists [Done]
+Reading output/rankBoost.txt... 5 ranked lists [Done]
+Reading output/rankNet.txt... 5 ranked lists [Done]
 
 
 Overall comparison
 ------------------------------------------------------------------------
 System	Performance	Improvement	Win	Loss	p-value
-AdaRank.txt [baseline]	0.6275
-lambdaMart.txt	0.999	+0.3715 (+59.2%)	4	0	0.0628
-listnet.txt	0.8583	+0.2308 (+36.78%)	4	0	0.0636
-randomForest.txt	0.9364	+0.3089 (+49.22%)	4	0	0.0629
-rankBoost.txt	0.999	+0.3715 (+59.2%)	4	0	0.0619
-rankNet.txt	0.999	+0.3715 (+59.2%)	4	0	0.0609
+AdaRank.txt [baseline]	0.6966
+lambdaMart.txt	0.9858	+0.2892 (+41.51%)	4	0	0.0585
+listnet.txt	0.8859	+0.1892 (+27.16%)	4	0	0.0617
+randomForest.txt	0.939	+0.2424 (+34.8%)	4	0	0.0627
+rankBoost.txt	0.8905	+0.1938 (+27.82%)	4	0	0.0663
+rankNet.txt	0.9987	+0.3021 (+43.37%)	4	0	0.062
 
 
 Detailed break down
 ------------------------------------------------------------------------
 	[ < -100%)	[-100%, -75%)	[-75%, -50%)	[-50%, -25%)	[-25%, 0%)	(0%, +25%]	(+25%, +50%]	(+50%, +75%]	(+75%, +100%]	( > +100%]
-lambdaMart.txt	0	0	0	0	0	2	0	1	1	0
-listnet.txt	0	0	0	0	0	3	0	0	1	0
-randomForest.txt	0	0	0	0	0	2	0	2	0	0
-rankBoost.txt	0	0	0	0	0	2	0	1	1	0
-rankNet.txt	0	0	0	0	0	2	0	1	1	0
+lambdaMart.txt	0	0	0	0	0	1	3	0	0	0
+listnet.txt	0	0	0	0	0	3	1	0	0	0
+randomForest.txt	0	0	0	0	0	2	2	0	0	0
+rankBoost.txt	0	0	0	0	0	4	0	0	0	0
+rankNet.txt	0	0	0	0	0	1	3	0	0	0

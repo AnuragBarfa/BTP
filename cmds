@@ -1,0 +1,38 @@
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 6 -metric2t ERR@1500 -save lambdaMart.txt -gmax 9 -norm zscore 
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 4 -metric2t NDCG@1000 -metric2T ERR@10 -save cordinate.txt -gmax 9 -norm zscore
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 3 -metric2t NDCG@1500 -metric2T ERR@1500 -save AdaRank.txt -gmax 9 -norm zscore
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 2 -metric2t NDCG@1500 -metric2T ERR@10 -save rankBoost.txt -gmax 9 -norm zscore
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 1 -metric2t NDCG@1500 -save rankNet.txt -gmax 9 -norm zscore
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 0 -metric2t NDCG@1000 -metric2T ERR@10 -save MART.txt -gmax 9 -norm zscore
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 7 -metric2t NDCG@1500 -metric2T ERR@1500 -save listnet.txt -gmax 9 -norm zscore
+java -jar RankLib-2.13.jar -train MyFile.txt -tvs 0.85 -ranker 8 -metric2t NDCG@1500 -metric2T ERR@1500 -save randomForest.txt -gmax 9 -norm zscore -tc 4 -bag 2000
+
+java -jar RankLib-2.13.jar -rank MyTest.txt -load lambdaMart.txt -norm zscore -indri lambdaMartRankedLists.txt
+java -cp RankLib-2.13.jar ciir.umass.edu.features.FeatureManager -input MyFile.txt -output data/ -shuffle
+java -jar RankLib-2.13.jar -test MyFile.txt -load myModel.txt -metric2T NDCG@1000 -idv -norm zscore
+
+java -jar RankLib-2.13.jar -load myModel.txt -test MyFile.txt -metric2T ERR@1500 -idv output/randomForest.txt -norm zscore
+
+java -jar RankLib-2.13.jar -load lambdaMart.txt -test MyTest.txt -metric2T ERR@1500 -idv output/lambdaMart.txt -norm zscore
+
+java -jar RankLib-2.13.jar -load randomForest.txt -test MyTest.txt -metric2T ERR@1500 -idv output/randomForest.txt -norm zscore
+
+java -jar RankLib-2.13.jar -load rankBoost.txt -test MyTest.txt -metric2T NDCG@1500 -idv output/rankBoost.txt -norm zscore
+
+java -jar RankLib-2.13.jar -load rankNet.txt -test MyTest.txt -metric2T NDCG@1500 -idv output/rankNet.txt -norm zscore
+
+java -jar RankLib-2.13.jar -load AdaRank.txt -test MyTest.txt -metric2T NDCG@1500 -idv output/AdaRank.txt -norm zscore
+
+java -jar RankLib-2.13.jar -load listnet.txt -test MyTest.txt -metric2T NDCG@1500 -idv output/listnet.txt -norm zscore
+java -jar RankLib-2.13.jar -load MART.txt -test MyFile.txt -metric2T NDCG@1000 -idv output/MART.txt -norm zscore
+
+java -jar RankLib-2.13.jar -load randomForest.txt -test MyTest.txt -metric2T ERR@1500 -idv output2/randomForest.txt -norm zscore -gmax 9
+java -jar RankLib-2.13.jar -load lambdaMart.txt -test MyTest.txt -metric2T ERR@1500 -idv output2/lambdaMart.txt -norm zscore -gmax 9
+java -jar RankLib-2.13.jar -load rankNet.txt -test MyTest.txt -metric2T ERR@1500 -idv output2/rankNet.txt -norm zscore -gmax 9
+java -jar RankLib-2.13.jar -load AdaRank.txt -test MyTest.txt -metric2T ERR@1500 -idv output2/AdaRank.txt -norm zscore -gmax 9
+java -jar RankLib-2.13.jar -load rankBoost.txt -test MyTest.txt -metric2T ERR@1500 -idv output2/rankBoost.txt -norm zscore -gmax 9
+java -jar RankLib-2.13.jar -load listnet.txt -test MyTest.txt -metric2T ERR@1500 -idv output2/listnet.txt -norm zscore -gmax 9
+
+java -cp RankLib-2.13.jar;commons-math3-3.5.jar ciir.umass.edu.features.FeatureManager -feature_stats lambdaMart.txt
+
+java -cp RankLib-2.13.jar ciir.umass.edu.eval.Analyzer -all output/ -base AdaRank.txt > analysis.txt
