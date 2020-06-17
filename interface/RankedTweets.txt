@@ -1,0 +1,5398 @@
+1 17_of_artificial
+1 20_of_artificial
+1 18_of_artificial
+1 4_of_artificial
+1 1_of_artificial
+1 38_of_artificial
+1 39_of_artificial
+1 53_of_artificial
+1 40_of_artificial
+1 21_of_artificial
+1 41_of_artificial
+1 42_of_artificial
+1 19_of_artificial
+1 13_of_artificial
+1 54_of_artificial
+1 55_of_artificial
+1 65_of_artificial
+1 56_of_artificial
+1 22_of_artificial
+1 57_of_artificial
+1 58_of_artificial
+1 23_of_artificial
+1 43_of_artificial
+1 24_of_artificial
+1 44_of_artificial
+1 7_of_artificial
+1 25_of_artificial
+1 45_of_artificial
+1 66_of_artificial
+1 81_of_artificial
+1 82_of_artificial
+1 8_of_artificial
+1 46_of_artificial
+1 10_of_artificial
+1 5_of_artificial
+1 47_of_artificial
+1 83_of_artificial
+1 84_of_artificial
+1 59_of_artificial
+1 67_of_artificial
+1 68_of_artificial
+1 85_of_artificial
+1 98_of_artificial
+1 26_of_artificial
+1 69_of_artificial
+1 70_of_artificial
+1 86_of_artificial
+1 27_of_artificial
+1 48_of_artificial
+1 9_of_artificial
+1 12_of_artificial
+1 71_of_artificial
+1 14_of_artificial
+1 16_of_artificial
+1 72_of_artificial
+1 28_of_artificial
+1 29_of_artificial
+1 49_of_artificial
+1 30_of_artificial
+1 87_of_artificial
+1 88_of_artificial
+1 89_of_artificial
+1 73_of_artificial
+1 90_of_artificial
+1 74_of_artificial
+1 91_of_artificial
+1 60_of_artificial
+1 31_of_artificial
+1 92_of_artificial
+1 75_of_artificial
+1 61_of_artificial
+1 62_of_artificial
+1 32_of_artificial
+1 3_of_artificial
+1 93_of_artificial
+1 76_of_artificial
+1 63_of_artificial
+1 99_of_artificial
+1 77_of_artificial
+1 100_of_artificial
+1 101_of_artificial
+1 78_of_artificial
+1 114_of_artificial
+1 94_of_artificial
+1 50_of_artificial
+1 102_of_artificial
+1 95_of_artificial
+1 33_of_artificial
+1 103_of_artificial
+1 34_of_artificial
+1 115_of_artificial
+1 35_of_artificial
+1 2_of_artificial
+1 11_of_artificial
+1 15_of_artificial
+1 6_of_artificial
+1 79_of_artificial
+1 36_of_artificial
+1 51_of_artificial
+1 104_of_artificial
+1 37_of_artificial
+1 80_of_artificial
+1 96_of_artificial
+1 116_of_artificial
+1 52_of_artificial
+1 105_of_artificial
+1 64_of_artificial
+1 106_of_artificial
+1 97_of_artificial
+1 107_of_artificial
+1 108_of_artificial
+1 109_of_artificial
+1 110_of_artificial
+1 117_of_artificial
+1 111_of_artificial
+1 112_of_artificial
+1 113_of_artificial
+1 118_of_artificial
+1 119_of_artificial
+1 120_of_artificial
+1 121_of_artificial
+1 122_of_artificial
+1 123_of_artificial
+1 124_of_artificial
+1 125_of_artificial
+1 126_of_artificial
+1 127_of_artificial
+1 128_of_artificial
+1 129_of_artificial
+1 130_of_artificial
+1 131_of_artificial
+1 132_of_artificial
+1 133_of_artificial
+1 134_of_artificial
+1 135_of_artificial
+1 136_of_artificial
+1 137_of_artificial
+1 138_of_artificial
+1 139_of_artificial
+1 140_of_artificial
+1 141_of_artificial
+1 142_of_artificial
+1 143_of_artificial
+1 144_of_artificial
+1 145_of_artificial
+1 146_of_artificial
+1 147_of_artificial
+1 148_of_artificial
+1 149_of_artificial
+1 150_of_artificial
+1 151_of_artificial
+1 152_of_artificial
+1 153_of_artificial
+1 154_of_artificial
+1 155_of_artificial
+1 156_of_artificial
+1 157_of_artificial
+1 158_of_artificial
+1 159_of_artificial
+1 160_of_artificial
+1 161_of_artificial
+1 162_of_artificial
+1 163_of_artificial
+1 164_of_artificial
+1 165_of_artificial
+1 166_of_artificial
+1 167_of_artificial
+1 168_of_artificial
+1 169_of_artificial
+1 170_of_artificial
+1 171_of_artificial
+1 172_of_artificial
+1 173_of_artificial
+1 174_of_artificial
+1 175_of_artificial
+1 176_of_artificial
+1 177_of_artificial
+1 178_of_artificial
+1 179_of_artificial
+1 180_of_artificial
+1 181_of_artificial
+1 192_of_artificial
+1 193_of_artificial
+1 182_of_artificial
+1 194_of_artificial
+1 195_of_artificial
+1 183_of_artificial
+1 184_of_artificial
+1 185_of_artificial
+1 196_of_artificial
+1 197_of_artificial
+1 186_of_artificial
+1 189_of_artificial
+1 198_of_artificial
+1 187_of_artificial
+1 188_of_artificial
+1 199_of_artificial
+1 200_of_artificial
+1 190_of_artificial
+1 201_of_artificial
+1 191_of_artificial
+1 202_of_artificial
+1 213_of_artificial
+1 214_of_artificial
+1 203_of_artificial
+1 215_of_artificial
+1 216_of_artificial
+1 217_of_artificial
+1 233_of_artificial
+1 234_of_artificial
+1 235_of_artificial
+1 236_of_artificial
+1 253_of_artificial
+1 254_of_artificial
+1 255_of_artificial
+1 273_of_artificial
+1 274_of_artificial
+1 275_of_artificial
+1 293_of_artificial
+1 309_of_artificial
+1 310_of_artificial
+1 311_of_artificial
+1 312_of_artificial
+1 313_of_artificial
+1 314_of_artificial
+1 315_of_artificial
+1 316_of_artificial
+1 317_of_artificial
+1 318_of_artificial
+1 319_of_artificial
+1 329_of_artificial
+1 330_of_artificial
+1 331_of_artificial
+1 332_of_artificial
+1 333_of_artificial
+1 334_of_artificial
+1 335_of_artificial
+1 336_of_artificial
+1 337_of_artificial
+1 338_of_artificial
+1 339_of_artificial
+1 340_of_artificial
+1 341_of_artificial
+1 342_of_artificial
+1 343_of_artificial
+1 344_of_artificial
+1 345_of_artificial
+1 346_of_artificial
+1 349_of_artificial
+1 350_of_artificial
+1 351_of_artificial
+1 347_of_artificial
+1 352_of_artificial
+1 353_of_artificial
+1 348_of_artificial
+1 354_of_artificial
+1 355_of_artificial
+1 356_of_artificial
+1 357_of_artificial
+1 358_of_artificial
+1 359_of_artificial
+1 360_of_artificial
+1 361_of_artificial
+1 362_of_artificial
+1 363_of_artificial
+1 364_of_artificial
+1 365_of_artificial
+1 366_of_artificial
+1 367_of_artificial
+1 368_of_artificial
+1 369_of_artificial
+1 370_of_artificial
+1 371_of_artificial
+1 372_of_artificial
+1 373_of_artificial
+1 374_of_artificial
+1 375_of_artificial
+1 276_of_artificial
+1 256_of_artificial
+1 277_of_artificial
+1 278_of_artificial
+1 320_of_artificial
+1 279_of_artificial
+1 218_of_artificial
+1 219_of_artificial
+1 257_of_artificial
+1 258_of_artificial
+1 280_of_artificial
+1 281_of_artificial
+1 282_of_artificial
+1 220_of_artificial
+1 283_of_artificial
+1 237_of_artificial
+1 238_of_artificial
+1 321_of_artificial
+1 204_of_artificial
+1 294_of_artificial
+1 322_of_artificial
+1 284_of_artificial
+1 205_of_artificial
+1 212_of_artificial
+1 206_of_artificial
+1 285_of_artificial
+1 323_of_artificial
+1 239_of_artificial
+1 221_of_artificial
+1 240_of_artificial
+1 222_of_artificial
+1 324_of_artificial
+1 286_of_artificial
+1 325_of_artificial
+1 259_of_artificial
+1 223_of_artificial
+1 287_of_artificial
+1 260_of_artificial
+1 261_of_artificial
+1 241_of_artificial
+1 262_of_artificial
+1 263_of_artificial
+1 295_of_artificial
+1 296_of_artificial
+1 224_of_artificial
+1 264_of_artificial
+1 265_of_artificial
+1 297_of_artificial
+1 242_of_artificial
+1 298_of_artificial
+1 299_of_artificial
+1 326_of_artificial
+1 288_of_artificial
+1 266_of_artificial
+1 300_of_artificial
+1 207_of_artificial
+1 267_of_artificial
+1 301_of_artificial
+1 208_of_artificial
+1 302_of_artificial
+1 303_of_artificial
+1 243_of_artificial
+1 225_of_artificial
+1 244_of_artificial
+1 289_of_artificial
+1 209_of_artificial
+1 245_of_artificial
+1 226_of_artificial
+1 290_of_artificial
+1 246_of_artificial
+1 227_of_artificial
+1 268_of_artificial
+1 247_of_artificial
+1 291_of_artificial
+1 269_of_artificial
+1 228_of_artificial
+1 248_of_artificial
+1 210_of_artificial
+1 304_of_artificial
+1 270_of_artificial
+1 305_of_artificial
+1 249_of_artificial
+1 292_of_artificial
+1 271_of_artificial
+1 250_of_artificial
+1 327_of_artificial
+1 229_of_artificial
+1 328_of_artificial
+1 211_of_artificial
+1 230_of_artificial
+1 251_of_artificial
+1 306_of_artificial
+1 231_of_artificial
+1 252_of_artificial
+1 272_of_artificial
+1 307_of_artificial
+1 232_of_artificial
+1 308_of_artificial
+2 4_of_womens
+2 6_of_womens
+2 22_of_womens
+2 23_of_womens
+2 28_of_womens
+2 17_of_womens
+2 18_of_womens
+2 24_of_womens
+2 27_of_womens
+2 34_of_womens
+2 35_of_womens
+2 37_of_womens
+2 38_of_womens
+2 25_of_womens
+2 8_of_womens
+2 12_of_womens
+2 36_of_womens
+2 7_of_womens
+2 9_of_womens
+2 39_of_womens
+2 40_of_womens
+2 41_of_womens
+2 42_of_womens
+2 43_of_womens
+2 44_of_womens
+2 31_of_womens
+2 2_of_womens
+2 45_of_womens
+2 46_of_womens
+2 5_of_womens
+2 47_of_womens
+2 48_of_womens
+2 20_of_womens
+2 19_of_womens
+2 58_of_womens
+2 33_of_womens
+2 59_of_womens
+2 49_of_womens
+2 60_of_womens
+2 11_of_womens
+2 50_of_womens
+2 51_of_womens
+2 61_of_womens
+2 62_of_womens
+2 21_of_womens
+2 52_of_womens
+2 53_of_womens
+2 32_of_womens
+2 54_of_womens
+2 63_of_womens
+2 64_of_womens
+2 55_of_womens
+2 65_of_womens
+2 56_of_womens
+2 30_of_womens
+2 13_of_womens
+2 66_of_womens
+2 3_of_womens
+2 15_of_womens
+2 57_of_womens
+2 67_of_womens
+2 14_of_womens
+2 29_of_womens
+2 68_of_womens
+2 69_of_womens
+2 70_of_womens
+2 77_of_womens
+2 1_of_womens
+2 26_of_womens
+2 71_of_womens
+2 10_of_womens
+2 16_of_womens
+2 72_of_womens
+2 73_of_womens
+2 74_of_womens
+2 75_of_womens
+2 76_of_womens
+2 78_of_womens
+2 79_of_womens
+2 80_of_womens
+2 81_of_womens
+2 82_of_womens
+2 83_of_womens
+2 84_of_womens
+2 85_of_womens
+2 86_of_womens
+2 87_of_womens
+2 88_of_womens
+2 89_of_womens
+2 90_of_womens
+2 91_of_womens
+2 92_of_womens
+2 97_of_womens
+2 93_of_womens
+2 94_of_womens
+2 95_of_womens
+2 96_of_womens
+2 98_of_womens
+2 99_of_womens
+2 100_of_womens
+2 101_of_womens
+2 102_of_womens
+2 103_of_womens
+2 104_of_womens
+2 105_of_womens
+2 106_of_womens
+2 107_of_womens
+2 108_of_womens
+2 109_of_womens
+2 110_of_womens
+2 111_of_womens
+2 112_of_womens
+2 113_of_womens
+2 114_of_womens
+2 115_of_womens
+2 116_of_womens
+2 117_of_womens
+2 118_of_womens
+2 119_of_womens
+2 120_of_womens
+2 121_of_womens
+2 122_of_womens
+2 134_of_womens
+2 123_of_womens
+2 124_of_womens
+2 125_of_womens
+2 126_of_womens
+2 127_of_womens
+2 128_of_womens
+2 129_of_womens
+2 130_of_womens
+2 131_of_womens
+2 132_of_womens
+2 133_of_womens
+2 135_of_womens
+2 136_of_womens
+2 137_of_womens
+2 138_of_womens
+2 139_of_womens
+2 140_of_womens
+2 141_of_womens
+2 151_of_womens
+2 142_of_womens
+2 143_of_womens
+2 144_of_womens
+2 145_of_womens
+2 146_of_womens
+2 147_of_womens
+2 148_of_womens
+2 149_of_womens
+2 150_of_womens
+2 152_of_womens
+2 153_of_womens
+2 154_of_womens
+2 155_of_womens
+2 156_of_womens
+2 157_of_womens
+2 158_of_womens
+2 159_of_womens
+2 160_of_womens
+2 161_of_womens
+2 162_of_womens
+2 163_of_womens
+2 164_of_womens
+2 165_of_womens
+2 166_of_womens
+2 167_of_womens
+2 168_of_womens
+2 169_of_womens
+2 171_of_womens
+2 170_of_womens
+2 172_of_womens
+2 173_of_womens
+2 174_of_womens
+2 175_of_womens
+2 176_of_womens
+2 177_of_womens
+2 178_of_womens
+2 179_of_womens
+2 180_of_womens
+2 181_of_womens
+2 182_of_womens
+2 183_of_womens
+2 184_of_womens
+2 185_of_womens
+2 186_of_womens
+2 187_of_womens
+2 188_of_womens
+2 189_of_womens
+2 190_of_womens
+2 191_of_womens
+2 192_of_womens
+2 193_of_womens
+2 194_of_womens
+2 195_of_womens
+2 196_of_womens
+2 197_of_womens
+2 198_of_womens
+2 199_of_womens
+2 200_of_womens
+2 201_of_womens
+2 207_of_womens
+2 202_of_womens
+2 203_of_womens
+2 204_of_womens
+2 205_of_womens
+2 206_of_womens
+2 208_of_womens
+2 209_of_womens
+2 210_of_womens
+2 211_of_womens
+2 212_of_womens
+2 213_of_womens
+2 214_of_womens
+2 215_of_womens
+2 216_of_womens
+2 226_of_womens
+2 217_of_womens
+2 218_of_womens
+2 219_of_womens
+2 220_of_womens
+2 221_of_womens
+2 222_of_womens
+2 223_of_womens
+2 224_of_womens
+2 225_of_womens
+2 227_of_womens
+2 228_of_womens
+2 229_of_womens
+2 230_of_womens
+2 231_of_womens
+2 232_of_womens
+2 233_of_womens
+2 234_of_womens
+2 243_of_womens
+2 235_of_womens
+2 236_of_womens
+2 237_of_womens
+2 238_of_womens
+2 239_of_womens
+2 240_of_womens
+2 241_of_womens
+2 242_of_womens
+2 244_of_womens
+2 245_of_womens
+2 246_of_womens
+2 247_of_womens
+2 248_of_womens
+2 249_of_womens
+2 250_of_womens
+2 251_of_womens
+2 252_of_womens
+2 253_of_womens
+2 254_of_womens
+2 256_of_womens
+2 255_of_womens
+2 257_of_womens
+2 258_of_womens
+2 259_of_womens
+2 260_of_womens
+2 261_of_womens
+2 262_of_womens
+2 263_of_womens
+2 264_of_womens
+2 265_of_womens
+2 266_of_womens
+2 267_of_womens
+2 268_of_womens
+2 269_of_womens
+2 270_of_womens
+2 271_of_womens
+2 272_of_womens
+2 279_of_womens
+2 273_of_womens
+2 274_of_womens
+2 275_of_womens
+2 276_of_womens
+2 277_of_womens
+2 278_of_womens
+2 280_of_womens
+2 281_of_womens
+2 282_of_womens
+2 283_of_womens
+2 284_of_womens
+2 285_of_womens
+2 286_of_womens
+2 287_of_womens
+2 288_of_womens
+2 289_of_womens
+2 290_of_womens
+2 291_of_womens
+2 292_of_womens
+2 293_of_womens
+2 294_of_womens
+2 295_of_womens
+2 296_of_womens
+2 297_of_womens
+2 298_of_womens
+2 299_of_womens
+2 300_of_womens
+2 301_of_womens
+2 302_of_womens
+2 303_of_womens
+2 304_of_womens
+2 305_of_womens
+2 306_of_womens
+2 307_of_womens
+2 308_of_womens
+2 309_of_womens
+2 310_of_womens
+2 311_of_womens
+2 312_of_womens
+2 313_of_womens
+2 314_of_womens
+2 315_of_womens
+2 316_of_womens
+2 317_of_womens
+2 318_of_womens
+2 319_of_womens
+2 320_of_womens
+2 321_of_womens
+2 322_of_womens
+2 323_of_womens
+2 324_of_womens
+2 325_of_womens
+2 326_of_womens
+2 327_of_womens
+2 328_of_womens
+2 329_of_womens
+2 330_of_womens
+2 331_of_womens
+2 332_of_womens
+2 333_of_womens
+2 334_of_womens
+2 335_of_womens
+2 336_of_womens
+2 337_of_womens
+2 338_of_womens
+2 339_of_womens
+2 340_of_womens
+2 341_of_womens
+2 342_of_womens
+2 343_of_womens
+2 344_of_womens
+2 345_of_womens
+2 346_of_womens
+2 347_of_womens
+2 348_of_womens
+2 349_of_womens
+2 350_of_womens
+2 351_of_womens
+2 352_of_womens
+2 353_of_womens
+2 354_of_womens
+2 355_of_womens
+2 356_of_womens
+2 357_of_womens
+2 358_of_womens
+2 359_of_womens
+2 360_of_womens
+2 361_of_womens
+2 362_of_womens
+2 363_of_womens
+2 364_of_womens
+2 365_of_womens
+2 366_of_womens
+2 367_of_womens
+2 368_of_womens
+2 369_of_womens
+2 370_of_womens
+2 371_of_womens
+2 372_of_womens
+2 373_of_womens
+2 374_of_womens
+2 375_of_womens
+2 376_of_womens
+2 377_of_womens
+2 378_of_womens
+2 380_of_womens
+2 379_of_womens
+2 381_of_womens
+2 382_of_womens
+2 383_of_womens
+2 384_of_womens
+2 385_of_womens
+2 386_of_womens
+2 387_of_womens
+2 388_of_womens
+2 389_of_womens
+2 390_of_womens
+2 391_of_womens
+2 392_of_womens
+2 393_of_womens
+2 394_of_womens
+2 395_of_womens
+2 396_of_womens
+2 397_of_womens
+2 398_of_womens
+2 399_of_womens
+2 400_of_womens
+2 401_of_womens
+2 402_of_womens
+2 403_of_womens
+2 404_of_womens
+2 405_of_womens
+2 406_of_womens
+2 407_of_womens
+2 408_of_womens
+2 409_of_womens
+2 410_of_womens
+2 411_of_womens
+2 412_of_womens
+2 413_of_womens
+2 414_of_womens
+2 415_of_womens
+2 416_of_womens
+2 417_of_womens
+2 418_of_womens
+2 419_of_womens
+2 420_of_womens
+2 421_of_womens
+2 422_of_womens
+2 423_of_womens
+2 424_of_womens
+2 425_of_womens
+2 426_of_womens
+2 427_of_womens
+2 428_of_womens
+2 429_of_womens
+2 430_of_womens
+2 431_of_womens
+2 432_of_womens
+2 435_of_womens
+2 433_of_womens
+2 434_of_womens
+2 436_of_womens
+2 437_of_womens
+2 438_of_womens
+2 439_of_womens
+2 440_of_womens
+2 441_of_womens
+2 442_of_womens
+2 443_of_womens
+2 444_of_womens
+2 445_of_womens
+2 446_of_womens
+2 447_of_womens
+2 448_of_womens
+2 449_of_womens
+2 453_of_womens
+2 450_of_womens
+2 451_of_womens
+2 452_of_womens
+2 454_of_womens
+2 455_of_womens
+2 456_of_womens
+2 457_of_womens
+2 458_of_womens
+2 459_of_womens
+2 460_of_womens
+2 461_of_womens
+2 462_of_womens
+2 463_of_womens
+2 464_of_womens
+2 465_of_womens
+2 466_of_womens
+2 467_of_womens
+2 468_of_womens
+2 470_of_womens
+2 469_of_womens
+2 471_of_womens
+2 472_of_womens
+2 473_of_womens
+2 474_of_womens
+2 475_of_womens
+2 476_of_womens
+2 477_of_womens
+2 478_of_womens
+2 479_of_womens
+2 480_of_womens
+2 481_of_womens
+2 482_of_womens
+2 483_of_womens
+2 484_of_womens
+2 485_of_womens
+2 486_of_womens
+2 487_of_womens
+2 488_of_womens
+2 489_of_womens
+2 490_of_womens
+2 491_of_womens
+2 492_of_womens
+2 493_of_womens
+2 494_of_womens
+2 495_of_womens
+2 496_of_womens
+2 497_of_womens
+2 498_of_womens
+2 499_of_womens
+2 500_of_womens
+2 501_of_womens
+2 502_of_womens
+2 503_of_womens
+2 504_of_womens
+2 505_of_womens
+2 506_of_womens
+2 507_of_womens
+2 508_of_womens
+2 509_of_womens
+2 510_of_womens
+2 511_of_womens
+2 512_of_womens
+2 513_of_womens
+2 514_of_womens
+2 515_of_womens
+2 516_of_womens
+2 517_of_womens
+2 518_of_womens
+2 519_of_womens
+2 520_of_womens
+2 521_of_womens
+2 522_of_womens
+2 523_of_womens
+2 524_of_womens
+2 525_of_womens
+2 526_of_womens
+2 527_of_womens
+2 528_of_womens
+2 529_of_womens
+2 530_of_womens
+2 531_of_womens
+2 532_of_womens
+2 533_of_womens
+2 534_of_womens
+2 535_of_womens
+2 536_of_womens
+2 537_of_womens
+2 538_of_womens
+2 539_of_womens
+2 540_of_womens
+2 541_of_womens
+2 542_of_womens
+2 543_of_womens
+2 544_of_womens
+2 545_of_womens
+2 551_of_womens
+2 546_of_womens
+2 547_of_womens
+2 548_of_womens
+2 549_of_womens
+2 550_of_womens
+2 552_of_womens
+2 553_of_womens
+2 554_of_womens
+2 555_of_womens
+2 556_of_womens
+2 557_of_womens
+2 558_of_womens
+2 559_of_womens
+2 560_of_womens
+2 561_of_womens
+2 562_of_womens
+2 563_of_womens
+2 564_of_womens
+2 565_of_womens
+2 566_of_womens
+2 567_of_womens
+2 568_of_womens
+2 569_of_womens
+2 570_of_womens
+2 571_of_womens
+2 572_of_womens
+2 573_of_womens
+2 574_of_womens
+2 575_of_womens
+2 576_of_womens
+2 577_of_womens
+2 578_of_womens
+2 579_of_womens
+2 580_of_womens
+2 581_of_womens
+2 582_of_womens
+2 583_of_womens
+2 584_of_womens
+2 585_of_womens
+2 586_of_womens
+2 587_of_womens
+2 588_of_womens
+2 589_of_womens
+2 590_of_womens
+2 591_of_womens
+2 592_of_womens
+2 593_of_womens
+2 594_of_womens
+2 595_of_womens
+2 596_of_womens
+2 597_of_womens
+2 598_of_womens
+2 599_of_womens
+2 600_of_womens
+2 601_of_womens
+2 602_of_womens
+2 603_of_womens
+2 604_of_womens
+2 605_of_womens
+2 606_of_womens
+2 607_of_womens
+2 608_of_womens
+2 609_of_womens
+2 610_of_womens
+2 611_of_womens
+2 612_of_womens
+2 613_of_womens
+2 614_of_womens
+2 615_of_womens
+2 616_of_womens
+2 617_of_womens
+2 618_of_womens
+2 619_of_womens
+2 620_of_womens
+2 621_of_womens
+2 622_of_womens
+2 623_of_womens
+2 624_of_womens
+2 625_of_womens
+2 626_of_womens
+2 627_of_womens
+2 628_of_womens
+2 629_of_womens
+2 630_of_womens
+2 631_of_womens
+2 632_of_womens
+2 633_of_womens
+2 634_of_womens
+2 635_of_womens
+2 636_of_womens
+2 637_of_womens
+2 638_of_womens
+2 639_of_womens
+2 640_of_womens
+2 641_of_womens
+2 642_of_womens
+2 643_of_womens
+2 644_of_womens
+2 645_of_womens
+2 650_of_womens
+2 646_of_womens
+2 647_of_womens
+2 648_of_womens
+2 649_of_womens
+2 651_of_womens
+2 652_of_womens
+2 653_of_womens
+2 654_of_womens
+2 655_of_womens
+2 656_of_womens
+2 657_of_womens
+2 658_of_womens
+2 659_of_womens
+2 660_of_womens
+2 661_of_womens
+2 662_of_womens
+2 663_of_womens
+2 664_of_womens
+2 665_of_womens
+2 666_of_womens
+2 667_of_womens
+2 668_of_womens
+2 669_of_womens
+2 670_of_womens
+2 671_of_womens
+2 672_of_womens
+2 673_of_womens
+2 674_of_womens
+2 675_of_womens
+2 676_of_womens
+2 677_of_womens
+2 678_of_womens
+2 679_of_womens
+2 680_of_womens
+2 681_of_womens
+2 682_of_womens
+2 683_of_womens
+2 684_of_womens
+2 685_of_womens
+2 686_of_womens
+2 687_of_womens
+2 688_of_womens
+2 689_of_womens
+2 690_of_womens
+2 691_of_womens
+2 692_of_womens
+2 693_of_womens
+2 694_of_womens
+2 695_of_womens
+2 696_of_womens
+2 697_of_womens
+2 698_of_womens
+2 699_of_womens
+2 700_of_womens
+2 701_of_womens
+2 702_of_womens
+2 703_of_womens
+2 704_of_womens
+2 705_of_womens
+2 706_of_womens
+2 707_of_womens
+2 708_of_womens
+2 709_of_womens
+2 710_of_womens
+2 711_of_womens
+2 712_of_womens
+2 713_of_womens
+2 714_of_womens
+2 715_of_womens
+2 716_of_womens
+2 732_of_womens
+2 748_of_womens
+2 749_of_womens
+2 750_of_womens
+2 768_of_womens
+2 769_of_womens
+2 788_of_womens
+2 789_of_womens
+2 808_of_womens
+2 809_of_womens
+2 810_of_womens
+2 811_of_womens
+2 812_of_womens
+2 829_of_womens
+2 830_of_womens
+2 831_of_womens
+2 832_of_womens
+2 833_of_womens
+2 834_of_womens
+2 835_of_womens
+2 836_of_womens
+2 837_of_womens
+2 838_of_womens
+2 839_of_womens
+2 840_of_womens
+2 841_of_womens
+2 842_of_womens
+2 843_of_womens
+2 844_of_womens
+2 845_of_womens
+2 846_of_womens
+2 847_of_womens
+2 848_of_womens
+2 849_of_womens
+2 850_of_womens
+2 851_of_womens
+2 852_of_womens
+2 853_of_womens
+2 854_of_womens
+2 855_of_womens
+2 856_of_womens
+2 857_of_womens
+2 858_of_womens
+2 859_of_womens
+2 860_of_womens
+2 861_of_womens
+2 862_of_womens
+2 863_of_womens
+2 864_of_womens
+2 865_of_womens
+2 866_of_womens
+2 867_of_womens
+2 868_of_womens
+2 869_of_womens
+2 870_of_womens
+2 871_of_womens
+2 872_of_womens
+2 873_of_womens
+2 874_of_womens
+2 875_of_womens
+2 876_of_womens
+2 770_of_womens
+2 790_of_womens
+2 813_of_womens
+2 733_of_womens
+2 751_of_womens
+2 717_of_womens
+2 752_of_womens
+2 734_of_womens
+2 814_of_womens
+2 791_of_womens
+2 735_of_womens
+2 771_of_womens
+2 718_of_womens
+2 736_of_womens
+2 792_of_womens
+2 772_of_womens
+2 793_of_womens
+2 773_of_womens
+2 794_of_womens
+2 737_of_womens
+2 753_of_womens
+2 795_of_womens
+2 719_of_womens
+2 720_of_womens
+2 754_of_womens
+2 796_of_womens
+2 774_of_womens
+2 797_of_womens
+2 755_of_womens
+2 775_of_womens
+2 738_of_womens
+2 721_of_womens
+2 798_of_womens
+2 756_of_womens
+2 776_of_womens
+2 739_of_womens
+2 777_of_womens
+2 757_of_womens
+2 778_of_womens
+2 815_of_womens
+2 740_of_womens
+2 758_of_womens
+2 779_of_womens
+2 780_of_womens
+2 816_of_womens
+2 799_of_womens
+2 741_of_womens
+2 722_of_womens
+2 742_of_womens
+2 817_of_womens
+2 800_of_womens
+2 818_of_womens
+2 723_of_womens
+2 781_of_womens
+2 759_of_womens
+2 760_of_womens
+2 761_of_womens
+2 819_of_womens
+2 724_of_womens
+2 820_of_womens
+2 827_of_womens
+2 725_of_womens
+2 821_of_womens
+2 822_of_womens
+2 782_of_womens
+2 726_of_womens
+2 727_of_womens
+2 801_of_womens
+2 783_of_womens
+2 802_of_womens
+2 803_of_womens
+2 823_of_womens
+2 762_of_womens
+2 763_of_womens
+2 743_of_womens
+2 824_of_womens
+2 804_of_womens
+2 825_of_womens
+2 764_of_womens
+2 744_of_womens
+2 765_of_womens
+2 784_of_womens
+2 745_of_womens
+2 728_of_womens
+2 746_of_womens
+2 826_of_womens
+2 729_of_womens
+2 805_of_womens
+2 766_of_womens
+2 806_of_womens
+2 730_of_womens
+2 828_of_womens
+2 785_of_womens
+2 786_of_womens
+2 747_of_womens
+2 767_of_womens
+2 807_of_womens
+2 787_of_womens
+2 731_of_womens
+3 176_of_pulitzer
+
+3 118_of_pulitzer
+
+3 100_of_pulitzer
+
+3 132_of_pulitzer
+
+3 81_of_pulitzer
+
+3 196_of_pulitzer
+
+3 12_of_pulitzer
+
+3 13_of_pulitzer
+
+3 205_of_pulitzer
+
+3 130_of_pulitzer
+
+3 10_of_pulitzer
+
+3 136_of_pulitzer
+
+3 3_of_pulitzer
+
+3 141_of_pulitzer
+
+3 194_of_pulitzer
+
+3 175_of_pulitzer
+
+3 74_of_pulitzer
+
+3 201_of_pulitzer
+
+3 73_of_pulitzer
+
+3 207_of_pulitzer
+
+3 172_of_pulitzer
+
+3 6_of_pulitzer
+
+3 116_of_pulitzer
+
+3 165_of_pulitzer
+
+3 18_of_pulitzer
+
+3 37_of_pulitzer
+
+3 110_of_pulitzer
+
+3 188_of_pulitzer
+
+3 5_of_pulitzer
+
+3 68_of_pulitzer
+
+3 2_of_pulitzer
+
+3 206_of_pulitzer
+
+3 137_of_pulitzer
+
+3 1_of_pulitzer
+
+3 154_of_pulitzer
+
+3 127_of_pulitzer
+
+3 139_of_pulitzer
+
+3 108_of_pulitzer
+
+3 119_of_pulitzer
+
+3 149_of_pulitzer
+
+3 97_of_pulitzer
+
+3 4_of_pulitzer
+
+3 123_of_pulitzer
+
+3 208_of_pulitzer
+
+3 8_of_pulitzer
+
+3 182_of_pulitzer
+
+3 109_of_pulitzer
+
+3 179_of_pulitzer
+
+3 131_of_pulitzer
+
+3 11_of_pulitzer
+
+3 76_of_pulitzer
+
+3 80_of_pulitzer
+
+3 203_of_pulitzer
+
+3 84_of_pulitzer
+
+3 101_of_pulitzer
+
+3 102_of_pulitzer
+
+3 185_of_pulitzer
+
+3 60_of_pulitzer
+
+3 9_of_pulitzer
+
+3 159_of_pulitzer
+
+3 198_of_pulitzer
+
+3 200_of_pulitzer
+
+3 63_of_pulitzer
+
+3 7_of_pulitzer
+
+3 209_of_pulitzer
+
+3 14_of_pulitzer
+
+3 87_of_pulitzer
+
+3 104_of_pulitzer
+
+3 53_of_pulitzer
+
+3 61_of_pulitzer
+
+3 210_of_pulitzer
+
+3 211_of_pulitzer
+
+3 93_of_pulitzer
+
+3 98_of_pulitzer
+
+3 114_of_pulitzer
+
+3 64_of_pulitzer
+
+3 168_of_pulitzer
+
+3 151_of_pulitzer
+
+3 140_of_pulitzer
+
+3 43_of_pulitzer
+
+3 107_of_pulitzer
+
+3 79_of_pulitzer
+
+3 212_of_pulitzer
+
+3 213_of_pulitzer
+
+3 50_of_pulitzer
+
+3 67_of_pulitzer
+
+3 120_of_pulitzer
+
+3 86_of_pulitzer
+
+3 178_of_pulitzer
+
+3 133_of_pulitzer
+
+3 157_of_pulitzer
+
+3 204_of_pulitzer
+
+3 122_of_pulitzer
+
+3 72_of_pulitzer
+
+3 38_of_pulitzer
+
+3 112_of_pulitzer
+
+3 184_of_pulitzer
+
+3 92_of_pulitzer
+
+3 58_of_pulitzer
+
+3 117_of_pulitzer
+
+3 28_of_pulitzer
+
+3 26_of_pulitzer
+
+3 69_of_pulitzer
+
+3 29_of_pulitzer
+
+3 24_of_pulitzer
+
+3 160_of_pulitzer
+
+3 199_of_pulitzer
+
+3 62_of_pulitzer
+
+3 180_of_pulitzer
+
+3 128_of_pulitzer
+
+3 106_of_pulitzer
+
+3 40_of_pulitzer
+
+3 121_of_pulitzer
+
+3 145_of_pulitzer
+
+3 161_of_pulitzer
+
+3 191_of_pulitzer
+
+3 173_of_pulitzer
+
+3 75_of_pulitzer
+
+3 103_of_pulitzer
+
+3 142_of_pulitzer
+
+3 167_of_pulitzer
+
+3 183_of_pulitzer
+
+3 16_of_pulitzer
+
+3 181_of_pulitzer
+
+3 187_of_pulitzer
+
+3 214_of_pulitzer
+
+3 52_of_pulitzer
+
+3 88_of_pulitzer
+
+3 27_of_pulitzer
+
+3 147_of_pulitzer
+
+3 22_of_pulitzer
+
+3 65_of_pulitzer
+
+3 138_of_pulitzer
+
+3 66_of_pulitzer
+
+3 45_of_pulitzer
+
+3 21_of_pulitzer
+
+3 215_of_pulitzer
+
+3 59_of_pulitzer
+
+3 20_of_pulitzer
+
+3 55_of_pulitzer
+
+3 164_of_pulitzer
+
+3 51_of_pulitzer
+
+3 71_of_pulitzer
+
+3 170_of_pulitzer
+
+3 94_of_pulitzer
+
+3 197_of_pulitzer
+
+3 99_of_pulitzer
+
+3 143_of_pulitzer
+
+3 23_of_pulitzer
+
+3 129_of_pulitzer
+
+3 47_of_pulitzer
+
+3 125_of_pulitzer
+
+3 163_of_pulitzer
+
+3 105_of_pulitzer
+
+3 155_of_pulitzer
+
+3 189_of_pulitzer
+
+3 216_of_pulitzer
+
+3 41_of_pulitzer
+
+3 78_of_pulitzer
+
+3 39_of_pulitzer
+
+3 54_of_pulitzer
+
+3 217_of_pulitzer
+
+3 124_of_pulitzer
+
+3 48_of_pulitzer
+
+3 34_of_pulitzer
+
+3 158_of_pulitzer
+
+3 186_of_pulitzer
+
+3 30_of_pulitzer
+
+3 25_of_pulitzer
+
+3 46_of_pulitzer
+
+3 144_of_pulitzer
+
+3 135_of_pulitzer
+
+3 218_of_pulitzer
+
+3 146_of_pulitzer
+
+3 35_of_pulitzer
+
+3 83_of_pulitzer
+
+3 177_of_pulitzer
+
+3 219_of_pulitzer
+
+3 220_of_pulitzer
+
+3 90_of_pulitzer
+
+3 150_of_pulitzer
+
+3 192_of_pulitzer
+
+3 193_of_pulitzer
+
+3 33_of_pulitzer
+
+3 153_of_pulitzer
+
+3 95_of_pulitzer
+
+3 134_of_pulitzer
+
+3 126_of_pulitzer
+
+3 174_of_pulitzer
+
+3 162_of_pulitzer
+
+3 49_of_pulitzer
+
+3 82_of_pulitzer
+
+3 152_of_pulitzer
+
+3 166_of_pulitzer
+
+3 111_of_pulitzer
+
+3 115_of_pulitzer
+
+3 156_of_pulitzer
+
+3 31_of_pulitzer
+
+3 171_of_pulitzer
+
+3 36_of_pulitzer
+
+3 42_of_pulitzer
+
+3 70_of_pulitzer
+
+3 221_of_pulitzer
+
+3 56_of_pulitzer
+
+3 148_of_pulitzer
+
+3 222_of_pulitzer
+
+3 91_of_pulitzer
+
+3 32_of_pulitzer
+
+3 223_of_pulitzer
+
+3 44_of_pulitzer
+
+3 77_of_pulitzer
+
+3 195_of_pulitzer
+
+3 17_of_pulitzer
+
+3 57_of_pulitzer
+
+3 224_of_pulitzer
+
+3 85_of_pulitzer
+
+3 202_of_pulitzer
+
+3 96_of_pulitzer
+
+3 113_of_pulitzer
+
+3 225_of_pulitzer
+
+3 190_of_pulitzer
+
+3 89_of_pulitzer
+
+3 226_of_pulitzer
+
+3 15_of_pulitzer
+
+3 227_of_pulitzer
+
+3 228_of_pulitzer
+
+3 169_of_pulitzer
+
+3 229_of_pulitzer
+
+3 19_of_pulitzer
+
+3 230_of_pulitzer
+
+3 231_of_pulitzer
+
+3 232_of_pulitzer
+
+3 233_of_pulitzer
+
+3 239_of_pulitzer
+
+3 234_of_pulitzer
+
+3 235_of_pulitzer
+
+3 240_of_pulitzer
+
+3 241_of_pulitzer
+
+3 236_of_pulitzer
+
+3 237_of_pulitzer
+
+3 238_of_pulitzer
+
+3 242_of_pulitzer
+
+3 243_of_pulitzer
+
+3 244_of_pulitzer
+
+3 245_of_pulitzer
+
+3 246_of_pulitzer
+
+3 254_of_pulitzer
+
+3 255_of_pulitzer
+
+3 247_of_pulitzer
+
+3 256_of_pulitzer
+
+3 248_of_pulitzer
+
+3 249_of_pulitzer
+
+3 250_of_pulitzer
+
+3 257_of_pulitzer
+
+3 258_of_pulitzer
+
+3 259_of_pulitzer
+
+3 260_of_pulitzer
+
+3 251_of_pulitzer
+
+3 252_of_pulitzer
+
+3 253_of_pulitzer
+
+3 267_of_pulitzer
+
+3 268_of_pulitzer
+
+3 269_of_pulitzer
+
+3 270_of_pulitzer
+
+3 271_of_pulitzer
+
+3 272_of_pulitzer
+
+3 273_of_pulitzer
+
+3 274_of_pulitzer
+
+3 261_of_pulitzer
+
+3 262_of_pulitzer
+
+3 263_of_pulitzer
+
+3 282_of_pulitzer
+
+3 264_of_pulitzer
+
+3 283_of_pulitzer
+
+3 284_of_pulitzer
+
+3 265_of_pulitzer
+
+3 266_of_pulitzer
+
+3 285_of_pulitzer
+
+3 275_of_pulitzer
+
+3 286_of_pulitzer
+
+3 276_of_pulitzer
+
+3 277_of_pulitzer
+
+3 278_of_pulitzer
+
+3 279_of_pulitzer
+
+3 287_of_pulitzer
+
+3 280_of_pulitzer
+
+3 288_of_pulitzer
+
+3 281_of_pulitzer
+
+3 289_of_pulitzer
+
+3 290_of_pulitzer
+
+3 291_of_pulitzer
+
+3 299_of_pulitzer
+
+3 300_of_pulitzer
+
+3 301_of_pulitzer
+
+3 302_of_pulitzer
+
+3 303_of_pulitzer
+
+3 304_of_pulitzer
+
+3 305_of_pulitzer
+
+3 306_of_pulitzer
+
+3 314_of_pulitzer
+
+3 315_of_pulitzer
+
+3 316_of_pulitzer
+
+3 317_of_pulitzer
+
+3 318_of_pulitzer
+
+3 319_of_pulitzer
+
+3 307_of_pulitzer
+
+3 320_of_pulitzer
+
+3 308_of_pulitzer
+
+3 309_of_pulitzer
+
+3 321_of_pulitzer
+
+3 292_of_pulitzer
+
+3 322_of_pulitzer
+
+3 323_of_pulitzer
+
+3 324_of_pulitzer
+
+3 293_of_pulitzer
+
+3 294_of_pulitzer
+
+3 310_of_pulitzer
+
+3 311_of_pulitzer
+
+3 312_of_pulitzer
+
+3 313_of_pulitzer
+
+3 295_of_pulitzer
+
+3 296_of_pulitzer
+
+3 297_of_pulitzer
+
+3 325_of_pulitzer
+
+3 298_of_pulitzer
+
+3 326_of_pulitzer
+
+3 327_of_pulitzer
+
+3 328_of_pulitzer
+
+3 329_of_pulitzer
+
+3 330_of_pulitzer
+
+3 331_of_pulitzer
+
+3 332_of_pulitzer
+
+3 333_of_pulitzer
+
+3 334_of_pulitzer
+
+3 335_of_pulitzer
+
+3 336_of_pulitzer
+
+3 337_of_pulitzer
+
+3 338_of_pulitzer
+
+3 339_of_pulitzer
+
+3 340_of_pulitzer
+
+3 341_of_pulitzer
+
+3 342_of_pulitzer
+
+3 343_of_pulitzer
+
+3 344_of_pulitzer
+
+3 345_of_pulitzer
+
+3 346_of_pulitzer
+
+3 347_of_pulitzer
+
+3 348_of_pulitzer
+
+3 349_of_pulitzer
+
+3 350_of_pulitzer
+
+3 351_of_pulitzer
+
+3 352_of_pulitzer
+
+3 353_of_pulitzer
+
+3 354_of_pulitzer
+
+3 355_of_pulitzer
+
+3 356_of_pulitzer
+
+3 357_of_pulitzer
+
+3 358_of_pulitzer
+
+3 359_of_pulitzer
+
+3 360_of_pulitzer
+
+3 361_of_pulitzer
+
+3 362_of_pulitzer
+
+3 363_of_pulitzer
+
+3 364_of_pulitzer
+
+3 365_of_pulitzer
+
+3 366_of_pulitzer
+
+3 367_of_pulitzer
+
+3 368_of_pulitzer
+
+3 369_of_pulitzer
+
+3 370_of_pulitzer
+
+3 371_of_pulitzer
+
+3 372_of_pulitzer
+
+3 373_of_pulitzer
+
+3 374_of_pulitzer
+
+3 375_of_pulitzer
+
+3 376_of_pulitzer
+
+3 377_of_pulitzer
+
+3 378_of_pulitzer
+
+3 379_of_pulitzer
+
+3 380_of_pulitzer
+
+3 381_of_pulitzer
+
+3 382_of_pulitzer
+
+3 383_of_pulitzer
+
+3 384_of_pulitzer
+
+3 385_of_pulitzer
+
+3 386_of_pulitzer
+
+3 387_of_pulitzer
+
+3 388_of_pulitzer
+
+3 389_of_pulitzer
+
+3 390_of_pulitzer
+
+3 391_of_pulitzer
+
+3 392_of_pulitzer
+
+3 393_of_pulitzer
+
+3 394_of_pulitzer
+
+3 395_of_pulitzer
+
+3 396_of_pulitzer
+
+3 397_of_pulitzer
+
+3 398_of_pulitzer
+
+3 399_of_pulitzer
+
+3 400_of_pulitzer
+
+3 401_of_pulitzer
+
+3 402_of_pulitzer
+
+3 403_of_pulitzer
+
+3 404_of_pulitzer
+
+3 405_of_pulitzer
+
+3 406_of_pulitzer
+
+3 407_of_pulitzer
+
+3 408_of_pulitzer
+
+3 409_of_pulitzer
+
+3 410_of_pulitzer
+
+3 411_of_pulitzer
+
+3 412_of_pulitzer
+
+3 413_of_pulitzer
+
+3 414_of_pulitzer
+
+3 415_of_pulitzer
+
+3 416_of_pulitzer
+
+3 417_of_pulitzer
+
+3 418_of_pulitzer
+
+3 419_of_pulitzer
+
+3 420_of_pulitzer
+
+3 421_of_pulitzer
+
+3 422_of_pulitzer
+
+3 423_of_pulitzer
+
+3 424_of_pulitzer
+
+3 425_of_pulitzer
+
+3 426_of_pulitzer
+
+3 427_of_pulitzer
+
+3 428_of_pulitzer
+
+3 429_of_pulitzer
+
+3 430_of_pulitzer
+
+3 431_of_pulitzer
+
+3 432_of_pulitzer
+
+3 433_of_pulitzer
+
+3 434_of_pulitzer
+
+3 435_of_pulitzer
+
+3 436_of_pulitzer
+
+3 437_of_pulitzer
+
+3 438_of_pulitzer
+
+3 439_of_pulitzer
+
+3 440_of_pulitzer
+
+3 441_of_pulitzer
+
+3 442_of_pulitzer
+
+3 443_of_pulitzer
+
+3 444_of_pulitzer
+
+3 445_of_pulitzer
+
+3 446_of_pulitzer
+
+3 447_of_pulitzer
+
+3 448_of_pulitzer
+
+3 449_of_pulitzer
+
+3 450_of_pulitzer
+
+3 451_of_pulitzer
+
+3 452_of_pulitzer
+
+3 453_of_pulitzer
+
+3 454_of_pulitzer
+
+3 455_of_pulitzer
+
+3 456_of_pulitzer
+
+3 457_of_pulitzer
+
+3 458_of_pulitzer
+
+3 459_of_pulitzer
+
+3 460_of_pulitzer
+
+3 461_of_pulitzer
+
+3 462_of_pulitzer
+
+3 463_of_pulitzer
+
+3 464_of_pulitzer
+
+3 465_of_pulitzer
+
+3 466_of_pulitzer
+
+3 467_of_pulitzer
+
+3 468_of_pulitzer
+
+3 469_of_pulitzer
+
+3 470_of_pulitzer
+
+3 471_of_pulitzer
+
+3 472_of_pulitzer
+
+3 473_of_pulitzer
+
+3 474_of_pulitzer
+
+3 475_of_pulitzer
+
+3 476_of_pulitzer
+
+3 477_of_pulitzer
+
+3 478_of_pulitzer
+
+3 479_of_pulitzer
+
+3 480_of_pulitzer
+
+3 481_of_pulitzer
+
+3 482_of_pulitzer
+
+3 483_of_pulitzer
+
+3 484_of_pulitzer
+
+3 485_of_pulitzer
+
+3 486_of_pulitzer
+
+3 487_of_pulitzer
+
+3 488_of_pulitzer
+
+3 489_of_pulitzer
+
+3 490_of_pulitzer
+
+3 491_of_pulitzer
+
+3 492_of_pulitzer
+
+3 493_of_pulitzer
+
+3 494_of_pulitzer
+
+3 495_of_pulitzer
+
+3 496_of_pulitzer
+
+3 497_of_pulitzer
+
+3 498_of_pulitzer
+
+3 499_of_pulitzer
+
+3 500_of_pulitzer
+
+3 501_of_pulitzer
+
+3 502_of_pulitzer
+
+3 503_of_pulitzer
+
+3 504_of_pulitzer
+
+3 505_of_pulitzer
+
+3 506_of_pulitzer
+
+3 507_of_pulitzer
+
+3 508_of_pulitzer
+
+3 509_of_pulitzer
+
+3 510_of_pulitzer
+
+3 511_of_pulitzer
+
+3 512_of_pulitzer
+
+3 513_of_pulitzer
+
+3 514_of_pulitzer
+
+3 515_of_pulitzer
+
+3 516_of_pulitzer
+
+3 517_of_pulitzer
+
+3 518_of_pulitzer
+
+3 519_of_pulitzer
+
+3 520_of_pulitzer
+
+3 521_of_pulitzer
+
+3 522_of_pulitzer
+
+3 523_of_pulitzer
+
+3 524_of_pulitzer
+
+3 525_of_pulitzer
+
+3 526_of_pulitzer
+
+3 527_of_pulitzer
+
+3 528_of_pulitzer
+
+3 529_of_pulitzer
+
+3 530_of_pulitzer
+
+3 531_of_pulitzer
+
+3 532_of_pulitzer
+
+3 533_of_pulitzer
+
+3 534_of_pulitzer
+
+3 535_of_pulitzer
+
+3 536_of_pulitzer
+
+3 537_of_pulitzer
+
+3 538_of_pulitzer
+
+3 539_of_pulitzer
+
+3 540_of_pulitzer
+
+3 541_of_pulitzer
+
+3 542_of_pulitzer
+
+3 543_of_pulitzer
+
+3 544_of_pulitzer
+
+3 545_of_pulitzer
+
+3 546_of_pulitzer
+
+3 547_of_pulitzer
+
+3 548_of_pulitzer
+
+3 549_of_pulitzer
+
+3 550_of_pulitzer
+
+3 551_of_pulitzer
+
+3 552_of_pulitzer
+
+3 553_of_pulitzer
+
+3 554_of_pulitzer
+
+3 555_of_pulitzer
+
+3 556_of_pulitzer
+
+3 557_of_pulitzer
+
+3 558_of_pulitzer
+
+3 559_of_pulitzer
+
+3 560_of_pulitzer
+
+3 561_of_pulitzer
+
+3 562_of_pulitzer
+
+3 563_of_pulitzer
+
+3 564_of_pulitzer
+
+3 565_of_pulitzer
+
+3 566_of_pulitzer
+
+3 567_of_pulitzer
+
+3 568_of_pulitzer
+
+3 569_of_pulitzer
+
+3 570_of_pulitzer
+
+3 571_of_pulitzer
+
+3 572_of_pulitzer
+
+3 573_of_pulitzer
+
+3 574_of_pulitzer
+
+3 575_of_pulitzer
+
+3 576_of_pulitzer
+
+3 577_of_pulitzer
+
+3 578_of_pulitzer
+
+3 579_of_pulitzer
+
+3 580_of_pulitzer
+
+3 581_of_pulitzer
+
+3 582_of_pulitzer
+
+3 583_of_pulitzer
+
+3 584_of_pulitzer
+
+3 585_of_pulitzer
+
+3 586_of_pulitzer
+
+3 587_of_pulitzer
+
+3 588_of_pulitzer
+
+3 589_of_pulitzer
+
+3 590_of_pulitzer
+
+3 591_of_pulitzer
+
+3 592_of_pulitzer
+
+3 593_of_pulitzer
+
+3 594_of_pulitzer
+
+3 595_of_pulitzer
+
+3 596_of_pulitzer
+
+3 597_of_pulitzer
+
+3 598_of_pulitzer
+
+3 599_of_pulitzer
+
+3 600_of_pulitzer
+
+3 601_of_pulitzer
+
+3 602_of_pulitzer
+
+3 603_of_pulitzer
+
+3 604_of_pulitzer
+
+3 605_of_pulitzer
+
+3 606_of_pulitzer
+
+3 607_of_pulitzer
+
+3 608_of_pulitzer
+
+3 609_of_pulitzer
+
+3 610_of_pulitzer
+
+3 611_of_pulitzer
+
+3 612_of_pulitzer
+
+3 613_of_pulitzer
+
+3 614_of_pulitzer
+
+3 615_of_pulitzer
+
+3 616_of_pulitzer
+
+3 617_of_pulitzer
+
+3 618_of_pulitzer
+
+3 619_of_pulitzer
+
+3 620_of_pulitzer
+
+3 621_of_pulitzer
+
+3 622_of_pulitzer
+
+3 623_of_pulitzer
+
+3 624_of_pulitzer
+
+3 625_of_pulitzer
+
+3 626_of_pulitzer
+
+3 627_of_pulitzer
+
+3 628_of_pulitzer
+
+3 629_of_pulitzer
+
+3 630_of_pulitzer
+
+3 631_of_pulitzer
+
+3 632_of_pulitzer
+
+3 633_of_pulitzer
+
+3 634_of_pulitzer
+
+3 635_of_pulitzer
+
+3 636_of_pulitzer
+
+3 637_of_pulitzer
+
+3 638_of_pulitzer
+
+3 639_of_pulitzer
+
+3 640_of_pulitzer
+
+3 641_of_pulitzer
+
+3 642_of_pulitzer
+
+3 643_of_pulitzer
+
+3 644_of_pulitzer
+
+3 645_of_pulitzer
+
+3 646_of_pulitzer
+
+3 647_of_pulitzer
+
+3 648_of_pulitzer
+
+3 649_of_pulitzer
+
+3 650_of_pulitzer
+
+3 651_of_pulitzer
+
+3 652_of_pulitzer
+
+3 653_of_pulitzer
+
+3 654_of_pulitzer
+
+3 655_of_pulitzer
+
+3 656_of_pulitzer
+
+3 657_of_pulitzer
+
+3 658_of_pulitzer
+
+3 659_of_pulitzer
+
+3 660_of_pulitzer
+
+3 661_of_pulitzer
+
+3 662_of_pulitzer
+
+3 663_of_pulitzer
+
+3 664_of_pulitzer
+
+3 665_of_pulitzer
+
+3 666_of_pulitzer
+
+3 667_of_pulitzer
+
+3 668_of_pulitzer
+
+3 669_of_pulitzer
+
+3 670_of_pulitzer
+
+3 671_of_pulitzer
+
+3 672_of_pulitzer
+
+3 673_of_pulitzer
+
+3 674_of_pulitzer
+
+3 675_of_pulitzer
+
+3 676_of_pulitzer
+
+3 677_of_pulitzer
+
+3 678_of_pulitzer
+
+3 679_of_pulitzer
+
+3 680_of_pulitzer
+
+3 681_of_pulitzer
+
+3 682_of_pulitzer
+
+3 683_of_pulitzer
+
+3 684_of_pulitzer
+
+3 685_of_pulitzer
+
+3 686_of_pulitzer
+
+3 687_of_pulitzer
+
+3 688_of_pulitzer
+
+3 689_of_pulitzer
+
+3 690_of_pulitzer
+
+3 691_of_pulitzer
+
+3 692_of_pulitzer
+
+3 693_of_pulitzer
+
+3 694_of_pulitzer
+
+3 695_of_pulitzer
+
+3 696_of_pulitzer
+
+3 697_of_pulitzer
+
+3 698_of_pulitzer
+
+3 699_of_pulitzer
+
+3 700_of_pulitzer
+
+3 701_of_pulitzer
+
+3 702_of_pulitzer
+
+3 703_of_pulitzer
+
+3 704_of_pulitzer
+
+3 705_of_pulitzer
+
+3 706_of_pulitzer
+
+3 707_of_pulitzer
+
+3 708_of_pulitzer
+
+3 709_of_pulitzer
+
+3 710_of_pulitzer
+
+3 711_of_pulitzer
+
+3 712_of_pulitzer
+
+3 713_of_pulitzer
+
+3 714_of_pulitzer
+
+3 715_of_pulitzer
+
+3 716_of_pulitzer
+
+3 717_of_pulitzer
+
+3 718_of_pulitzer
+
+3 719_of_pulitzer
+
+3 720_of_pulitzer
+
+3 721_of_pulitzer
+
+3 722_of_pulitzer
+
+3 723_of_pulitzer
+
+3 724_of_pulitzer
+
+3 725_of_pulitzer
+
+3 726_of_pulitzer
+
+3 727_of_pulitzer
+
+3 728_of_pulitzer
+
+3 729_of_pulitzer
+
+3 730_of_pulitzer
+
+3 731_of_pulitzer
+
+3 732_of_pulitzer
+
+3 733_of_pulitzer
+
+3 734_of_pulitzer
+
+3 735_of_pulitzer
+
+3 736_of_pulitzer
+
+3 737_of_pulitzer
+
+3 738_of_pulitzer
+
+3 739_of_pulitzer
+
+3 740_of_pulitzer
+
+3 741_of_pulitzer
+
+3 742_of_pulitzer
+
+3 743_of_pulitzer
+
+3 744_of_pulitzer
+
+3 745_of_pulitzer
+
+3 746_of_pulitzer
+
+3 747_of_pulitzer
+
+3 748_of_pulitzer
+
+3 749_of_pulitzer
+
+3 750_of_pulitzer
+
+3 751_of_pulitzer
+
+3 752_of_pulitzer
+
+3 753_of_pulitzer
+
+3 754_of_pulitzer
+
+3 755_of_pulitzer
+
+3 756_of_pulitzer
+
+3 757_of_pulitzer
+
+3 758_of_pulitzer
+
+3 759_of_pulitzer
+
+3 760_of_pulitzer
+
+3 761_of_pulitzer
+
+3 762_of_pulitzer
+
+3 763_of_pulitzer
+
+3 764_of_pulitzer
+
+3 765_of_pulitzer
+
+3 766_of_pulitzer
+
+3 767_of_pulitzer
+
+3 768_of_pulitzer
+
+3 769_of_pulitzer
+
+3 770_of_pulitzer
+
+3 771_of_pulitzer
+
+3 772_of_pulitzer
+
+3 773_of_pulitzer
+
+3 774_of_pulitzer
+
+3 775_of_pulitzer
+
+3 776_of_pulitzer
+
+3 777_of_pulitzer
+
+3 778_of_pulitzer
+
+3 779_of_pulitzer
+
+3 780_of_pulitzer
+
+3 781_of_pulitzer
+
+3 782_of_pulitzer
+
+3 783_of_pulitzer
+
+3 784_of_pulitzer
+
+3 785_of_pulitzer
+
+3 786_of_pulitzer
+
+3 787_of_pulitzer
+
+3 788_of_pulitzer
+
+3 789_of_pulitzer
+
+3 790_of_pulitzer
+
+3 791_of_pulitzer
+
+3 792_of_pulitzer
+
+3 793_of_pulitzer
+
+3 794_of_pulitzer
+
+3 795_of_pulitzer
+
+3 796_of_pulitzer
+
+3 797_of_pulitzer
+
+3 798_of_pulitzer
+
+3 799_of_pulitzer
+
+3 800_of_pulitzer
+
+3 801_of_pulitzer
+
+3 802_of_pulitzer
+
+3 803_of_pulitzer
+
+3 804_of_pulitzer
+
+3 805_of_pulitzer
+
+3 806_of_pulitzer
+
+3 807_of_pulitzer
+
+3 808_of_pulitzer
+
+3 809_of_pulitzer
+
+3 810_of_pulitzer
+
+3 811_of_pulitzer
+
+3 812_of_pulitzer
+
+3 813_of_pulitzer
+
+3 814_of_pulitzer
+
+3 815_of_pulitzer
+
+3 816_of_pulitzer
+
+3 817_of_pulitzer
+
+3 818_of_pulitzer
+
+3 819_of_pulitzer
+
+3 820_of_pulitzer
+
+3 821_of_pulitzer
+
+3 822_of_pulitzer
+
+3 823_of_pulitzer
+
+3 824_of_pulitzer
+
+3 825_of_pulitzer
+
+3 826_of_pulitzer
+
+3 827_of_pulitzer
+
+3 828_of_pulitzer
+
+3 829_of_pulitzer
+
+3 830_of_pulitzer
+
+3 831_of_pulitzer
+
+3 832_of_pulitzer
+
+3 833_of_pulitzer
+
+3 834_of_pulitzer
+
+3 835_of_pulitzer
+
+3 836_of_pulitzer
+
+3 837_of_pulitzer
+
+3 838_of_pulitzer
+
+3 839_of_pulitzer
+
+3 840_of_pulitzer
+
+3 841_of_pulitzer
+
+3 842_of_pulitzer
+
+3 843_of_pulitzer
+
+3 844_of_pulitzer
+
+3 845_of_pulitzer
+
+3 846_of_pulitzer
+
+3 847_of_pulitzer
+
+3 848_of_pulitzer
+
+3 849_of_pulitzer
+
+3 850_of_pulitzer
+
+3 851_of_pulitzer
+
+3 852_of_pulitzer
+
+3 853_of_pulitzer
+
+3 854_of_pulitzer
+
+3 855_of_pulitzer
+
+3 856_of_pulitzer
+
+3 857_of_pulitzer
+
+3 858_of_pulitzer
+
+3 859_of_pulitzer
+
+3 860_of_pulitzer
+
+3 861_of_pulitzer
+
+3 862_of_pulitzer
+
+3 863_of_pulitzer
+
+3 864_of_pulitzer
+
+3 865_of_pulitzer
+
+3 866_of_pulitzer
+
+3 867_of_pulitzer
+
+3 868_of_pulitzer
+
+3 869_of_pulitzer
+
+3 870_of_pulitzer
+
+3 871_of_pulitzer
+
+3 872_of_pulitzer
+
+3 873_of_pulitzer
+
+3 874_of_pulitzer
+
+3 875_of_pulitzer
+
+3 876_of_pulitzer
+
+3 877_of_pulitzer
+
+3 878_of_pulitzer
+
+3 879_of_pulitzer
+
+3 880_of_pulitzer
+
+3 881_of_pulitzer
+
+3 882_of_pulitzer
+
+3 883_of_pulitzer
+
+3 884_of_pulitzer
+
+3 885_of_pulitzer
+
+3 886_of_pulitzer
+
+3 887_of_pulitzer
+
+3 888_of_pulitzer
+
+3 889_of_pulitzer
+
+3 890_of_pulitzer
+
+3 891_of_pulitzer
+
+3 892_of_pulitzer
+
+3 893_of_pulitzer
+
+3 894_of_pulitzer
+
+3 895_of_pulitzer
+
+3 896_of_pulitzer
+
+3 897_of_pulitzer
+
+3 898_of_pulitzer
+
+3 899_of_pulitzer
+
+3 900_of_pulitzer
+
+3 901_of_pulitzer
+
+3 902_of_pulitzer
+
+3 903_of_pulitzer
+
+3 904_of_pulitzer
+
+3 905_of_pulitzer
+
+3 906_of_pulitzer
+
+3 907_of_pulitzer
+
+3 908_of_pulitzer
+
+3 909_of_pulitzer
+
+3 910_of_pulitzer
+
+3 911_of_pulitzer
+
+3 912_of_pulitzer
+
+3 913_of_pulitzer
+
+3 914_of_pulitzer
+
+3 915_of_pulitzer
+
+3 916_of_pulitzer
+
+3 917_of_pulitzer
+
+3 918_of_pulitzer
+
+3 919_of_pulitzer
+
+3 920_of_pulitzer
+
+3 921_of_pulitzer
+
+3 922_of_pulitzer
+
+3 923_of_pulitzer
+
+3 924_of_pulitzer
+
+3 925_of_pulitzer
+
+3 926_of_pulitzer
+
+3 927_of_pulitzer
+
+3 928_of_pulitzer
+
+3 929_of_pulitzer
+
+3 930_of_pulitzer
+
+3 931_of_pulitzer
+
+3 932_of_pulitzer
+
+3 933_of_pulitzer
+
+3 934_of_pulitzer
+
+3 935_of_pulitzer
+
+3 936_of_pulitzer
+
+3 937_of_pulitzer
+
+3 938_of_pulitzer
+
+3 939_of_pulitzer
+
+3 940_of_pulitzer
+
+3 941_of_pulitzer
+
+3 942_of_pulitzer
+
+3 943_of_pulitzer
+
+3 944_of_pulitzer
+
+3 945_of_pulitzer
+
+3 946_of_pulitzer
+
+3 947_of_pulitzer
+
+3 948_of_pulitzer
+
+3 949_of_pulitzer
+
+3 950_of_pulitzer
+
+3 951_of_pulitzer
+
+3 952_of_pulitzer
+
+3 953_of_pulitzer
+
+3 954_of_pulitzer
+
+3 955_of_pulitzer
+
+3 956_of_pulitzer
+
+3 957_of_pulitzer
+
+3 958_of_pulitzer
+
+3 959_of_pulitzer
+
+3 960_of_pulitzer
+
+3 961_of_pulitzer
+
+3 962_of_pulitzer
+
+3 963_of_pulitzer
+
+3 964_of_pulitzer
+
+3 965_of_pulitzer
+
+3 966_of_pulitzer
+
+3 967_of_pulitzer
+
+3 968_of_pulitzer
+
+3 969_of_pulitzer
+
+3 970_of_pulitzer
+
+3 971_of_pulitzer
+
+3 972_of_pulitzer
+
+3 973_of_pulitzer
+
+3 974_of_pulitzer
+
+3 975_of_pulitzer
+
+3 976_of_pulitzer
+
+3 977_of_pulitzer
+
+3 978_of_pulitzer
+
+3 979_of_pulitzer
+
+3 980_of_pulitzer
+
+3 981_of_pulitzer
+
+3 982_of_pulitzer
+
+3 983_of_pulitzer
+
+3 984_of_pulitzer
+
+3 985_of_pulitzer
+
+3 986_of_pulitzer
+
+3 987_of_pulitzer
+
+3 988_of_pulitzer
+
+3 989_of_pulitzer
+
+3 990_of_pulitzer
+
+3 991_of_pulitzer
+
+3 992_of_pulitzer
+
+3 993_of_pulitzer
+
+3 994_of_pulitzer
+
+3 995_of_pulitzer
+
+3 996_of_pulitzer
+
+3 997_of_pulitzer
+
+3 998_of_pulitzer
+
+3 999_of_pulitzer
+
+3 1000_of_pulitzer
+
+3 1001_of_pulitzer
+
+3 1002_of_pulitzer
+
+3 1003_of_pulitzer
+
+3 1004_of_pulitzer
+
+3 1005_of_pulitzer
+
+3 1006_of_pulitzer
+
+3 1007_of_pulitzer
+
+3 1008_of_pulitzer
+
+3 1009_of_pulitzer
+
+3 1010_of_pulitzer
+
+3 1011_of_pulitzer
+
+3 1012_of_pulitzer
+
+3 1013_of_pulitzer
+
+3 1014_of_pulitzer
+
+3 1015_of_pulitzer
+
+3 1016_of_pulitzer
+
+3 1017_of_pulitzer
+
+3 1018_of_pulitzer
+
+3 1019_of_pulitzer
+
+3 1020_of_pulitzer
+
+3 1021_of_pulitzer
+
+3 1022_of_pulitzer
+
+3 1023_of_pulitzer
+
+3 1024_of_pulitzer
+
+3 1025_of_pulitzer
+
+3 1026_of_pulitzer
+
+3 1027_of_pulitzer
+
+3 1028_of_pulitzer
+
+3 1029_of_pulitzer
+
+3 1030_of_pulitzer
+
+3 1031_of_pulitzer
+
+3 1032_of_pulitzer
+
+3 1033_of_pulitzer
+
+3 1034_of_pulitzer
+
+3 1035_of_pulitzer
+
+3 1036_of_pulitzer
+
+3 1037_of_pulitzer
+
+3 1038_of_pulitzer
+
+3 1039_of_pulitzer
+
+3 1040_of_pulitzer
+
+3 1041_of_pulitzer
+
+3 1042_of_pulitzer
+
+3 1043_of_pulitzer
+
+3 1044_of_pulitzer
+
+3 1045_of_pulitzer
+
+3 1046_of_pulitzer
+
+3 1047_of_pulitzer
+
+3 1048_of_pulitzer
+
+3 1049_of_pulitzer
+
+3 1050_of_pulitzer
+
+3 1051_of_pulitzer
+
+3 1052_of_pulitzer
+
+3 1053_of_pulitzer
+
+3 1054_of_pulitzer
+
+3 1055_of_pulitzer
+
+3 1056_of_pulitzer
+
+3 1057_of_pulitzer
+
+3 1058_of_pulitzer
+
+3 1059_of_pulitzer
+
+3 1060_of_pulitzer
+
+3 1061_of_pulitzer
+
+3 1062_of_pulitzer
+
+3 1063_of_pulitzer
+
+3 1064_of_pulitzer
+
+3 1065_of_pulitzer
+
+3 1066_of_pulitzer
+
+3 1067_of_pulitzer
+
+3 1068_of_pulitzer
+
+3 1069_of_pulitzer
+
+3 1070_of_pulitzer
+
+3 1071_of_pulitzer
+
+3 1072_of_pulitzer
+
+3 1073_of_pulitzer
+
+3 1074_of_pulitzer
+
+3 1075_of_pulitzer
+
+3 1076_of_pulitzer
+
+3 1077_of_pulitzer
+
+3 1078_of_pulitzer
+
+3 1079_of_pulitzer
+
+3 1080_of_pulitzer
+
+3 1081_of_pulitzer
+
+3 1082_of_pulitzer
+
+3 1083_of_pulitzer
+
+3 1084_of_pulitzer
+
+3 1085_of_pulitzer
+
+3 1086_of_pulitzer
+
+3 1087_of_pulitzer
+
+3 1088_of_pulitzer
+
+3 1089_of_pulitzer
+
+3 1090_of_pulitzer
+
+3 1091_of_pulitzer
+
+3 1092_of_pulitzer
+
+3 1093_of_pulitzer
+
+3 1094_of_pulitzer
+
+3 1095_of_pulitzer
+
+3 1096_of_pulitzer
+
+3 1097_of_pulitzer
+
+3 1098_of_pulitzer
+
+3 1099_of_pulitzer
+
+3 1100_of_pulitzer
+
+3 1101_of_pulitzer
+
+3 1102_of_pulitzer
+
+3 1103_of_pulitzer
+
+3 1104_of_pulitzer
+
+3 1105_of_pulitzer
+
+3 1106_of_pulitzer
+
+3 1107_of_pulitzer
+
+3 1108_of_pulitzer
+
+3 1109_of_pulitzer
+
+3 1110_of_pulitzer
+
+3 1111_of_pulitzer
+
+3 1112_of_pulitzer
+
+3 1113_of_pulitzer
+
+3 1114_of_pulitzer
+
+3 1115_of_pulitzer
+
+3 1116_of_pulitzer
+
+3 1117_of_pulitzer
+
+3 1118_of_pulitzer
+
+3 1119_of_pulitzer
+
+3 1120_of_pulitzer
+
+3 1121_of_pulitzer
+
+3 1122_of_pulitzer
+
+3 1123_of_pulitzer
+
+3 1124_of_pulitzer
+
+3 1125_of_pulitzer
+
+3 1126_of_pulitzer
+
+3 1127_of_pulitzer
+
+3 1128_of_pulitzer
+
+3 1129_of_pulitzer
+
+3 1130_of_pulitzer
+
+3 1131_of_pulitzer
+
+3 1132_of_pulitzer
+
+3 1133_of_pulitzer
+
+3 1134_of_pulitzer
+
+3 1135_of_pulitzer
+
+3 1136_of_pulitzer
+
+3 1137_of_pulitzer
+
+3 1138_of_pulitzer
+
+3 1139_of_pulitzer
+
+3 1140_of_pulitzer
+
+3 1141_of_pulitzer
+
+3 1142_of_pulitzer
+
+3 1143_of_pulitzer
+
+3 1144_of_pulitzer
+
+3 1145_of_pulitzer
+
+3 1146_of_pulitzer
+
+3 1147_of_pulitzer
+
+3 1148_of_pulitzer
+
+3 1149_of_pulitzer
+
+3 1150_of_pulitzer
+
+3 1151_of_pulitzer
+
+3 1152_of_pulitzer
+
+3 1153_of_pulitzer
+
+3 1154_of_pulitzer
+
+3 1155_of_pulitzer
+
+3 1156_of_pulitzer
+
+3 1157_of_pulitzer
+
+3 1158_of_pulitzer
+
+4 60_of_T20
+4 145_of_T20
+4 152_of_T20
+4 242_of_T20
+4 334_of_T20
+4 340_of_T20
+4 383_of_T20
+4 531_of_T20
+4 532_of_T20
+4 2_of_T20
+4 3_of_T20
+4 5_of_T20
+4 25_of_T20
+4 10_of_T20
+4 18_of_T20
+4 36_of_T20
+4 6_of_T20
+4 11_of_T20
+4 4_of_T20
+4 26_of_T20
+4 35_of_T20
+4 37_of_T20
+4 38_of_T20
+4 1_of_T20
+4 39_of_T20
+4 59_of_T20
+4 40_of_T20
+4 41_of_T20
+4 42_of_T20
+4 51_of_T20
+4 43_of_T20
+4 33_of_T20
+4 44_of_T20
+4 9_of_T20
+4 45_of_T20
+4 46_of_T20
+4 78_of_T20
+4 47_of_T20
+4 30_of_T20
+4 14_of_T20
+4 79_of_T20
+4 29_of_T20
+4 48_of_T20
+4 80_of_T20
+4 98_of_T20
+4 49_of_T20
+4 17_of_T20
+4 61_of_T20
+4 99_of_T20
+4 20_of_T20
+4 50_of_T20
+4 81_of_T20
+4 52_of_T20
+4 53_of_T20
+4 100_of_T20
+4 101_of_T20
+4 62_of_T20
+4 54_of_T20
+4 82_of_T20
+4 102_of_T20
+4 103_of_T20
+4 104_of_T20
+4 83_of_T20
+4 118_of_T20
+4 55_of_T20
+4 84_of_T20
+4 21_of_T20
+4 63_of_T20
+4 85_of_T20
+4 86_of_T20
+4 105_of_T20
+4 64_of_T20
+4 106_of_T20
+4 65_of_T20
+4 56_of_T20
+4 107_of_T20
+4 87_of_T20
+4 119_of_T20
+4 88_of_T20
+4 57_of_T20
+4 120_of_T20
+4 13_of_T20
+4 89_of_T20
+4 34_of_T20
+4 31_of_T20
+4 121_of_T20
+4 122_of_T20
+4 123_of_T20
+4 124_of_T20
+4 125_of_T20
+4 108_of_T20
+4 139_of_T20
+4 140_of_T20
+4 58_of_T20
+4 141_of_T20
+4 66_of_T20
+4 67_of_T20
+4 126_of_T20
+4 68_of_T20
+4 127_of_T20
+4 142_of_T20
+4 128_of_T20
+4 69_of_T20
+4 7_of_T20
+4 12_of_T20
+4 28_of_T20
+4 70_of_T20
+4 22_of_T20
+4 90_of_T20
+4 109_of_T20
+4 143_of_T20
+4 144_of_T20
+4 157_of_T20
+4 158_of_T20
+4 159_of_T20
+4 91_of_T20
+4 160_of_T20
+4 71_of_T20
+4 72_of_T20
+4 73_of_T20
+4 146_of_T20
+4 161_of_T20
+4 147_of_T20
+4 162_of_T20
+4 163_of_T20
+4 176_of_T20
+4 148_of_T20
+4 177_of_T20
+4 149_of_T20
+4 110_of_T20
+4 178_of_T20
+4 179_of_T20
+4 23_of_T20
+4 180_of_T20
+4 129_of_T20
+4 111_of_T20
+4 92_of_T20
+4 93_of_T20
+4 150_of_T20
+4 74_of_T20
+4 75_of_T20
+4 130_of_T20
+4 112_of_T20
+4 113_of_T20
+4 76_of_T20
+4 77_of_T20
+4 131_of_T20
+4 181_of_T20
+4 164_of_T20
+4 94_of_T20
+4 95_of_T20
+4 8_of_T20
+4 165_of_T20
+4 96_of_T20
+4 151_of_T20
+4 24_of_T20
+4 166_of_T20
+4 132_of_T20
+4 133_of_T20
+4 167_of_T20
+4 168_of_T20
+4 134_of_T20
+4 169_of_T20
+4 114_of_T20
+4 153_of_T20
+4 182_of_T20
+4 183_of_T20
+4 170_of_T20
+4 193_of_T20
+4 32_of_T20
+4 15_of_T20
+4 27_of_T20
+4 16_of_T20
+4 194_of_T20
+4 195_of_T20
+4 196_of_T20
+4 197_of_T20
+4 97_of_T20
+4 115_of_T20
+4 116_of_T20
+4 135_of_T20
+4 154_of_T20
+4 198_of_T20
+4 136_of_T20
+4 137_of_T20
+4 199_of_T20
+4 200_of_T20
+4 210_of_T20
+4 184_of_T20
+4 155_of_T20
+4 185_of_T20
+4 19_of_T20
+4 211_of_T20
+4 201_of_T20
+4 212_of_T20
+4 117_of_T20
+4 202_of_T20
+4 203_of_T20
+4 171_of_T20
+4 172_of_T20
+4 173_of_T20
+4 186_of_T20
+4 138_of_T20
+4 213_of_T20
+4 204_of_T20
+4 187_of_T20
+4 174_of_T20
+4 214_of_T20
+4 175_of_T20
+4 215_of_T20
+4 205_of_T20
+4 216_of_T20
+4 188_of_T20
+4 206_of_T20
+4 189_of_T20
+4 217_of_T20
+4 190_of_T20
+4 207_of_T20
+4 218_of_T20
+4 219_of_T20
+4 191_of_T20
+4 156_of_T20
+4 220_of_T20
+4 208_of_T20
+4 221_of_T20
+4 209_of_T20
+4 192_of_T20
+4 222_of_T20
+4 223_of_T20
+4 224_of_T20
+4 225_of_T20
+4 226_of_T20
+4 227_of_T20
+4 228_of_T20
+4 229_of_T20
+4 230_of_T20
+4 231_of_T20
+4 232_of_T20
+4 233_of_T20
+4 234_of_T20
+4 235_of_T20
+4 236_of_T20
+4 237_of_T20
+4 238_of_T20
+4 239_of_T20
+4 240_of_T20
+4 241_of_T20
+4 243_of_T20
+4 244_of_T20
+4 245_of_T20
+4 246_of_T20
+4 247_of_T20
+4 248_of_T20
+4 249_of_T20
+4 250_of_T20
+4 251_of_T20
+4 252_of_T20
+4 253_of_T20
+4 254_of_T20
+4 255_of_T20
+4 256_of_T20
+4 257_of_T20
+4 258_of_T20
+4 259_of_T20
+4 260_of_T20
+4 261_of_T20
+4 262_of_T20
+4 263_of_T20
+4 264_of_T20
+4 265_of_T20
+4 266_of_T20
+4 267_of_T20
+4 276_of_T20
+4 268_of_T20
+4 269_of_T20
+4 270_of_T20
+4 271_of_T20
+4 272_of_T20
+4 273_of_T20
+4 274_of_T20
+4 275_of_T20
+4 277_of_T20
+4 278_of_T20
+4 279_of_T20
+4 280_of_T20
+4 281_of_T20
+4 282_of_T20
+4 283_of_T20
+4 284_of_T20
+4 285_of_T20
+4 286_of_T20
+4 287_of_T20
+4 288_of_T20
+4 289_of_T20
+4 290_of_T20
+4 291_of_T20
+4 292_of_T20
+4 293_of_T20
+4 294_of_T20
+4 295_of_T20
+4 296_of_T20
+4 297_of_T20
+4 298_of_T20
+4 299_of_T20
+4 300_of_T20
+4 301_of_T20
+4 302_of_T20
+4 303_of_T20
+4 304_of_T20
+4 305_of_T20
+4 306_of_T20
+4 307_of_T20
+4 308_of_T20
+4 309_of_T20
+4 310_of_T20
+4 311_of_T20
+4 312_of_T20
+4 313_of_T20
+4 314_of_T20
+4 315_of_T20
+4 316_of_T20
+4 317_of_T20
+4 318_of_T20
+4 319_of_T20
+4 320_of_T20
+4 321_of_T20
+4 322_of_T20
+4 323_of_T20
+4 324_of_T20
+4 325_of_T20
+4 326_of_T20
+4 327_of_T20
+4 328_of_T20
+4 329_of_T20
+4 330_of_T20
+4 331_of_T20
+4 332_of_T20
+4 333_of_T20
+4 335_of_T20
+4 336_of_T20
+4 337_of_T20
+4 338_of_T20
+4 339_of_T20
+4 341_of_T20
+4 342_of_T20
+4 343_of_T20
+4 344_of_T20
+4 345_of_T20
+4 346_of_T20
+4 347_of_T20
+4 348_of_T20
+4 349_of_T20
+4 350_of_T20
+4 351_of_T20
+4 352_of_T20
+4 353_of_T20
+4 354_of_T20
+4 355_of_T20
+4 356_of_T20
+4 357_of_T20
+4 358_of_T20
+4 359_of_T20
+4 360_of_T20
+4 361_of_T20
+4 362_of_T20
+4 363_of_T20
+4 364_of_T20
+4 365_of_T20
+4 366_of_T20
+4 367_of_T20
+4 368_of_T20
+4 369_of_T20
+4 370_of_T20
+4 371_of_T20
+4 372_of_T20
+4 373_of_T20
+4 374_of_T20
+4 375_of_T20
+4 376_of_T20
+4 377_of_T20
+4 378_of_T20
+4 379_of_T20
+4 380_of_T20
+4 381_of_T20
+4 382_of_T20
+4 384_of_T20
+4 385_of_T20
+4 386_of_T20
+4 387_of_T20
+4 388_of_T20
+4 389_of_T20
+4 390_of_T20
+4 391_of_T20
+4 392_of_T20
+4 393_of_T20
+4 394_of_T20
+4 395_of_T20
+4 396_of_T20
+4 397_of_T20
+4 398_of_T20
+4 399_of_T20
+4 400_of_T20
+4 401_of_T20
+4 402_of_T20
+4 403_of_T20
+4 404_of_T20
+4 405_of_T20
+4 406_of_T20
+4 407_of_T20
+4 408_of_T20
+4 409_of_T20
+4 410_of_T20
+4 411_of_T20
+4 412_of_T20
+4 413_of_T20
+4 414_of_T20
+4 415_of_T20
+4 416_of_T20
+4 417_of_T20
+4 418_of_T20
+4 419_of_T20
+4 420_of_T20
+4 421_of_T20
+4 422_of_T20
+4 423_of_T20
+4 424_of_T20
+4 425_of_T20
+4 426_of_T20
+4 427_of_T20
+4 428_of_T20
+4 429_of_T20
+4 430_of_T20
+4 431_of_T20
+4 432_of_T20
+4 433_of_T20
+4 434_of_T20
+4 435_of_T20
+4 436_of_T20
+4 437_of_T20
+4 438_of_T20
+4 439_of_T20
+4 440_of_T20
+4 441_of_T20
+4 442_of_T20
+4 443_of_T20
+4 444_of_T20
+4 445_of_T20
+4 446_of_T20
+4 447_of_T20
+4 448_of_T20
+4 449_of_T20
+4 450_of_T20
+4 451_of_T20
+4 452_of_T20
+4 453_of_T20
+4 454_of_T20
+4 455_of_T20
+4 456_of_T20
+4 457_of_T20
+4 458_of_T20
+4 459_of_T20
+4 464_of_T20
+4 460_of_T20
+4 461_of_T20
+4 462_of_T20
+4 463_of_T20
+4 465_of_T20
+4 466_of_T20
+4 467_of_T20
+4 468_of_T20
+4 469_of_T20
+4 470_of_T20
+4 471_of_T20
+4 472_of_T20
+4 473_of_T20
+4 474_of_T20
+4 475_of_T20
+4 476_of_T20
+4 477_of_T20
+4 478_of_T20
+4 479_of_T20
+4 480_of_T20
+4 481_of_T20
+4 482_of_T20
+4 483_of_T20
+4 484_of_T20
+4 485_of_T20
+4 486_of_T20
+4 487_of_T20
+4 488_of_T20
+4 489_of_T20
+4 490_of_T20
+4 491_of_T20
+4 492_of_T20
+4 493_of_T20
+4 494_of_T20
+4 495_of_T20
+4 496_of_T20
+4 497_of_T20
+4 498_of_T20
+4 499_of_T20
+4 500_of_T20
+4 501_of_T20
+4 502_of_T20
+4 503_of_T20
+4 504_of_T20
+4 505_of_T20
+4 506_of_T20
+4 507_of_T20
+4 508_of_T20
+4 509_of_T20
+4 510_of_T20
+4 511_of_T20
+4 513_of_T20
+4 512_of_T20
+4 514_of_T20
+4 515_of_T20
+4 516_of_T20
+4 517_of_T20
+4 518_of_T20
+4 519_of_T20
+4 520_of_T20
+4 521_of_T20
+4 522_of_T20
+4 523_of_T20
+4 524_of_T20
+4 525_of_T20
+4 526_of_T20
+4 527_of_T20
+4 528_of_T20
+4 529_of_T20
+4 530_of_T20
+4 533_of_T20
+4 534_of_T20
+4 535_of_T20
+4 536_of_T20
+4 537_of_T20
+4 538_of_T20
+4 539_of_T20
+4 540_of_T20
+4 541_of_T20
+4 542_of_T20
+4 543_of_T20
+4 544_of_T20
+4 545_of_T20
+4 546_of_T20
+4 547_of_T20
+4 548_of_T20
+4 549_of_T20
+4 550_of_T20
+4 551_of_T20
+4 552_of_T20
+4 553_of_T20
+4 554_of_T20
+4 555_of_T20
+4 556_of_T20
+4 557_of_T20
+4 558_of_T20
+4 559_of_T20
+4 560_of_T20
+4 561_of_T20
+4 562_of_T20
+4 563_of_T20
+4 564_of_T20
+4 565_of_T20
+4 566_of_T20
+4 567_of_T20
+4 568_of_T20
+4 569_of_T20
+4 570_of_T20
+4 571_of_T20
+4 572_of_T20
+4 573_of_T20
+4 574_of_T20
+4 575_of_T20
+4 576_of_T20
+4 577_of_T20
+4 578_of_T20
+4 579_of_T20
+4 580_of_T20
+4 581_of_T20
+4 582_of_T20
+4 583_of_T20
+4 584_of_T20
+4 585_of_T20
+4 586_of_T20
+4 587_of_T20
+4 588_of_T20
+4 589_of_T20
+4 590_of_T20
+4 591_of_T20
+4 592_of_T20
+4 593_of_T20
+4 594_of_T20
+4 595_of_T20
+4 596_of_T20
+4 597_of_T20
+4 598_of_T20
+4 599_of_T20
+4 600_of_T20
+4 601_of_T20
+4 602_of_T20
+4 603_of_T20
+4 604_of_T20
+4 605_of_T20
+4 606_of_T20
+4 607_of_T20
+4 608_of_T20
+4 609_of_T20
+4 610_of_T20
+4 611_of_T20
+4 612_of_T20
+4 613_of_T20
+4 614_of_T20
+4 615_of_T20
+4 616_of_T20
+4 617_of_T20
+4 618_of_T20
+4 619_of_T20
+4 620_of_T20
+4 621_of_T20
+4 622_of_T20
+4 623_of_T20
+4 624_of_T20
+4 625_of_T20
+4 626_of_T20
+4 627_of_T20
+4 628_of_T20
+4 629_of_T20
+4 630_of_T20
+4 631_of_T20
+4 632_of_T20
+4 633_of_T20
+4 634_of_T20
+4 635_of_T20
+4 636_of_T20
+4 637_of_T20
+4 638_of_T20
+4 639_of_T20
+4 641_of_T20
+4 640_of_T20
+4 642_of_T20
+4 643_of_T20
+4 644_of_T20
+4 645_of_T20
+4 646_of_T20
+4 647_of_T20
+4 648_of_T20
+4 649_of_T20
+4 650_of_T20
+4 651_of_T20
+4 652_of_T20
+4 653_of_T20
+4 654_of_T20
+4 655_of_T20
+4 656_of_T20
+4 657_of_T20
+4 658_of_T20
+4 659_of_T20
+4 660_of_T20
+4 661_of_T20
+4 664_of_T20
+4 662_of_T20
+4 663_of_T20
+4 665_of_T20
+4 666_of_T20
+4 667_of_T20
+4 668_of_T20
+4 669_of_T20
+4 670_of_T20
+4 671_of_T20
+4 672_of_T20
+4 673_of_T20
+4 674_of_T20
+4 675_of_T20
+4 676_of_T20
+4 677_of_T20
+4 678_of_T20
+4 679_of_T20
+4 680_of_T20
+4 681_of_T20
+4 682_of_T20
+4 683_of_T20
+4 684_of_T20
+4 685_of_T20
+4 686_of_T20
+4 687_of_T20
+4 688_of_T20
+4 689_of_T20
+4 690_of_T20
+4 691_of_T20
+4 692_of_T20
+4 693_of_T20
+4 694_of_T20
+4 695_of_T20
+4 696_of_T20
+4 697_of_T20
+4 698_of_T20
+4 699_of_T20
+4 700_of_T20
+4 701_of_T20
+4 702_of_T20
+4 703_of_T20
+4 704_of_T20
+4 705_of_T20
+4 706_of_T20
+4 707_of_T20
+4 708_of_T20
+4 709_of_T20
+4 710_of_T20
+4 711_of_T20
+4 712_of_T20
+4 713_of_T20
+4 714_of_T20
+4 715_of_T20
+4 716_of_T20
+4 717_of_T20
+4 718_of_T20
+4 719_of_T20
+4 720_of_T20
+4 721_of_T20
+4 722_of_T20
+4 723_of_T20
+4 724_of_T20
+4 725_of_T20
+4 726_of_T20
+4 727_of_T20
+4 728_of_T20
+4 729_of_T20
+4 730_of_T20
+4 731_of_T20
+4 732_of_T20
+4 733_of_T20
+4 734_of_T20
+4 735_of_T20
+4 736_of_T20
+4 737_of_T20
+4 738_of_T20
+4 739_of_T20
+4 740_of_T20
+4 741_of_T20
+4 742_of_T20
+4 743_of_T20
+4 744_of_T20
+4 745_of_T20
+4 746_of_T20
+4 747_of_T20
+4 748_of_T20
+4 749_of_T20
+4 750_of_T20
+4 751_of_T20
+4 752_of_T20
+4 753_of_T20
+4 754_of_T20
+4 755_of_T20
+4 756_of_T20
+4 757_of_T20
+4 758_of_T20
+4 759_of_T20
+4 760_of_T20
+4 761_of_T20
+4 762_of_T20
+4 763_of_T20
+4 764_of_T20
+4 765_of_T20
+4 766_of_T20
+4 767_of_T20
+4 768_of_T20
+4 769_of_T20
+4 770_of_T20
+4 771_of_T20
+4 772_of_T20
+4 773_of_T20
+4 774_of_T20
+4 775_of_T20
+4 776_of_T20
+4 777_of_T20
+4 778_of_T20
+4 779_of_T20
+4 780_of_T20
+4 781_of_T20
+4 782_of_T20
+4 783_of_T20
+4 784_of_T20
+4 785_of_T20
+4 786_of_T20
+4 787_of_T20
+4 788_of_T20
+4 789_of_T20
+4 790_of_T20
+4 791_of_T20
+4 792_of_T20
+4 793_of_T20
+4 794_of_T20
+4 795_of_T20
+4 796_of_T20
+4 797_of_T20
+4 798_of_T20
+4 799_of_T20
+4 800_of_T20
+4 801_of_T20
+4 802_of_T20
+4 803_of_T20
+4 804_of_T20
+4 805_of_T20
+4 806_of_T20
+4 807_of_T20
+4 808_of_T20
+4 809_of_T20
+4 810_of_T20
+4 811_of_T20
+4 812_of_T20
+4 813_of_T20
+4 814_of_T20
+4 815_of_T20
+4 816_of_T20
+4 817_of_T20
+4 818_of_T20
+4 819_of_T20
+4 820_of_T20
+4 821_of_T20
+4 822_of_T20
+4 823_of_T20
+4 824_of_T20
+4 825_of_T20
+4 826_of_T20
+4 827_of_T20
+4 828_of_T20
+4 829_of_T20
+4 830_of_T20
+4 831_of_T20
+4 832_of_T20
+4 833_of_T20
+4 834_of_T20
+4 835_of_T20
+4 836_of_T20
+4 837_of_T20
+4 838_of_T20
+4 839_of_T20
+4 840_of_T20
+4 841_of_T20
+4 842_of_T20
+4 843_of_T20
+4 844_of_T20
+4 845_of_T20
+4 846_of_T20
+4 847_of_T20
+4 848_of_T20
+4 849_of_T20
+4 850_of_T20
+4 851_of_T20
+4 852_of_T20
+4 853_of_T20
+4 854_of_T20
+4 855_of_T20
+4 856_of_T20
+4 857_of_T20
+4 858_of_T20
+4 859_of_T20
+4 860_of_T20
+4 861_of_T20
+4 862_of_T20
+4 863_of_T20
+4 864_of_T20
+4 865_of_T20
+4 866_of_T20
+4 867_of_T20
+4 868_of_T20
+4 869_of_T20
+4 870_of_T20
+4 871_of_T20
+4 872_of_T20
+4 873_of_T20
+4 874_of_T20
+4 875_of_T20
+4 876_of_T20
+4 877_of_T20
+4 878_of_T20
+4 879_of_T20
+4 880_of_T20
+4 881_of_T20
+4 882_of_T20
+4 883_of_T20
+4 884_of_T20
+4 885_of_T20
+4 886_of_T20
+4 887_of_T20
+4 888_of_T20
+4 889_of_T20
+4 890_of_T20
+4 891_of_T20
+4 892_of_T20
+4 893_of_T20
+4 894_of_T20
+4 895_of_T20
+4 896_of_T20
+4 897_of_T20
+4 898_of_T20
+4 899_of_T20
+4 900_of_T20
+4 901_of_T20
+4 902_of_T20
+4 903_of_T20
+4 904_of_T20
+4 905_of_T20
+4 906_of_T20
+4 907_of_T20
+4 908_of_T20
+4 909_of_T20
+4 910_of_T20
+4 911_of_T20
+4 912_of_T20
+4 913_of_T20
+4 914_of_T20
+4 915_of_T20
+4 916_of_T20
+4 917_of_T20
+4 918_of_T20
+4 919_of_T20
+4 920_of_T20
+4 921_of_T20
+4 922_of_T20
+4 923_of_T20
+4 924_of_T20
+4 925_of_T20
+4 926_of_T20
+4 927_of_T20
+4 928_of_T20
+4 929_of_T20
+4 930_of_T20
+4 931_of_T20
+4 932_of_T20
+4 933_of_T20
+4 934_of_T20
+4 935_of_T20
+4 936_of_T20
+4 937_of_T20
+4 938_of_T20
+4 939_of_T20
+4 940_of_T20
+4 941_of_T20
+4 942_of_T20
+4 943_of_T20
+4 944_of_T20
+4 945_of_T20
+4 946_of_T20
+4 947_of_T20
+4 948_of_T20
+4 949_of_T20
+4 950_of_T20
+4 951_of_T20
+4 952_of_T20
+4 953_of_T20
+4 961_of_T20
+4 954_of_T20
+4 955_of_T20
+4 956_of_T20
+4 957_of_T20
+4 958_of_T20
+4 959_of_T20
+4 960_of_T20
+4 962_of_T20
+4 963_of_T20
+4 964_of_T20
+4 965_of_T20
+4 966_of_T20
+4 967_of_T20
+4 968_of_T20
+4 969_of_T20
+4 970_of_T20
+4 971_of_T20
+4 972_of_T20
+4 973_of_T20
+4 974_of_T20
+4 975_of_T20
+4 976_of_T20
+4 977_of_T20
+4 978_of_T20
+4 979_of_T20
+4 980_of_T20
+4 981_of_T20
+4 982_of_T20
+4 983_of_T20
+4 984_of_T20
+4 985_of_T20
+4 986_of_T20
+4 987_of_T20
+4 988_of_T20
+4 989_of_T20
+4 990_of_T20
+4 991_of_T20
+4 1001_of_T20
+4 992_of_T20
+4 993_of_T20
+4 994_of_T20
+4 995_of_T20
+4 996_of_T20
+4 997_of_T20
+4 998_of_T20
+4 999_of_T20
+4 1000_of_T20
+4 1002_of_T20
+4 1003_of_T20
+4 1004_of_T20
+4 1005_of_T20
+4 1006_of_T20
+4 1007_of_T20
+4 1008_of_T20
+4 1009_of_T20
+4 1010_of_T20
+4 1011_of_T20
+4 1012_of_T20
+4 1013_of_T20
+4 1014_of_T20
+4 1015_of_T20
+4 1016_of_T20
+4 1017_of_T20
+4 1018_of_T20
+4 1019_of_T20
+4 1020_of_T20
+4 1021_of_T20
+4 1022_of_T20
+4 1023_of_T20
+4 1024_of_T20
+4 1025_of_T20
+4 1026_of_T20
+4 1027_of_T20
+4 1028_of_T20
+4 1029_of_T20
+4 1030_of_T20
+4 1031_of_T20
+4 1032_of_T20
+4 1033_of_T20
+4 1034_of_T20
+4 1035_of_T20
+4 1036_of_T20
+4 1037_of_T20
+4 1038_of_T20
+4 1039_of_T20
+4 1040_of_T20
+4 1041_of_T20
+4 1042_of_T20
+4 1043_of_T20
+4 1044_of_T20
+4 1045_of_T20
+4 1046_of_T20
+4 1047_of_T20
+4 1048_of_T20
+4 1049_of_T20
+4 1050_of_T20
+4 1051_of_T20
+4 1052_of_T20
+4 1053_of_T20
+4 1054_of_T20
+4 1055_of_T20
+4 1056_of_T20
+4 1057_of_T20
+4 1058_of_T20
+4 1059_of_T20
+4 1060_of_T20
+4 1061_of_T20
+4 1062_of_T20
+4 1063_of_T20
+4 1064_of_T20
+4 1065_of_T20
+4 1066_of_T20
+4 1067_of_T20
+4 1068_of_T20
+4 1069_of_T20
+4 1070_of_T20
+4 1071_of_T20
+4 1072_of_T20
+4 1073_of_T20
+4 1074_of_T20
+4 1075_of_T20
+4 1076_of_T20
+4 1077_of_T20
+4 1078_of_T20
+4 1079_of_T20
+4 1080_of_T20
+4 1081_of_T20
+4 1082_of_T20
+4 1083_of_T20
+4 1084_of_T20
+4 1085_of_T20
+4 1086_of_T20
+4 1087_of_T20
+4 1088_of_T20
+4 1089_of_T20
+4 1090_of_T20
+4 1091_of_T20
+4 1092_of_T20
+4 1093_of_T20
+4 1094_of_T20
+4 1095_of_T20
+4 1096_of_T20
+4 1097_of_T20
+4 1098_of_T20
+4 1099_of_T20
+4 1100_of_T20
+4 1101_of_T20
+4 1102_of_T20
+4 1103_of_T20
+4 1104_of_T20
+4 1105_of_T20
+4 1106_of_T20
+4 1107_of_T20
+4 1108_of_T20
+4 1109_of_T20
+4 1110_of_T20
+4 1111_of_T20
+4 1112_of_T20
+4 1113_of_T20
+4 1114_of_T20
+4 1115_of_T20
+4 1116_of_T20
+4 1117_of_T20
+4 1118_of_T20
+4 1119_of_T20
+4 1120_of_T20
+4 1121_of_T20
+4 1122_of_T20
+4 1123_of_T20
+4 1124_of_T20
+4 1125_of_T20
+4 1126_of_T20
+4 1127_of_T20
+4 1128_of_T20
+4 1129_of_T20
+4 1130_of_T20
+4 1131_of_T20
+4 1132_of_T20
+4 1133_of_T20
+4 1134_of_T20
+4 1135_of_T20
+4 1136_of_T20
+4 1137_of_T20
+4 1138_of_T20
+4 1139_of_T20
+4 1140_of_T20
+4 1141_of_T20
+4 1142_of_T20
+4 1143_of_T20
+4 1144_of_T20
+4 1145_of_T20
+4 1146_of_T20
+4 1147_of_T20
+4 1148_of_T20
+4 1149_of_T20
+4 1150_of_T20
+4 1151_of_T20
+4 1152_of_T20
+4 1153_of_T20
+4 1154_of_T20
+4 1155_of_T20
+4 1156_of_T20
+4 1157_of_T20
+4 1158_of_T20
+4 1159_of_T20
+4 1160_of_T20
+4 1161_of_T20
+4 1162_of_T20
+4 1163_of_T20
+4 1164_of_T20
+4 1165_of_T20
+4 1166_of_T20
+4 1167_of_T20
+4 1168_of_T20
+4 1169_of_T20
+4 1170_of_T20
+4 1171_of_T20
+4 1172_of_T20
+4 1173_of_T20
+4 1174_of_T20
+4 1175_of_T20
+4 1176_of_T20
+4 1177_of_T20
+4 1178_of_T20
+4 1179_of_T20
+4 1180_of_T20
+4 1181_of_T20
+4 1182_of_T20
+4 1183_of_T20
+4 1184_of_T20
+4 1185_of_T20
+4 1186_of_T20
+4 1187_of_T20
+4 1188_of_T20
+4 1189_of_T20
+4 1190_of_T20
+4 1191_of_T20
+4 1192_of_T20
+4 1193_of_T20
+4 1194_of_T20
+4 1195_of_T20
+4 1196_of_T20
+4 1197_of_T20
+4 1198_of_T20
+4 1199_of_T20
+4 1200_of_T20
+4 1201_of_T20
+4 1202_of_T20
+4 1203_of_T20
+4 1204_of_T20
+4 1205_of_T20
+4 1206_of_T20
+4 1207_of_T20
+4 1208_of_T20
+4 1209_of_T20
+4 1210_of_T20
+4 1211_of_T20
+4 1212_of_T20
+4 1213_of_T20
+4 1214_of_T20
+4 1215_of_T20
+4 1216_of_T20
+4 1217_of_T20
+4 1218_of_T20
+4 1219_of_T20
+4 1220_of_T20
+4 1221_of_T20
+4 1222_of_T20
+4 1223_of_T20
+4 1224_of_T20
+4 1225_of_T20
+4 1226_of_T20
+4 1227_of_T20
+4 1228_of_T20
+4 1229_of_T20
+4 1230_of_T20
+4 1236_of_T20
+4 1231_of_T20
+4 1232_of_T20
+4 1233_of_T20
+4 1234_of_T20
+4 1237_of_T20
+4 1235_of_T20
+4 1238_of_T20
+4 1239_of_T20
+4 1240_of_T20
+4 1241_of_T20
+4 1242_of_T20
+4 1243_of_T20
+4 1244_of_T20
+4 1245_of_T20
+4 1246_of_T20
+4 1247_of_T20
+4 1248_of_T20
+4 1249_of_T20
+4 1250_of_T20
+4 1251_of_T20
+4 1252_of_T20
+4 1253_of_T20
+4 1254_of_T20
+4 1255_of_T20
+4 1256_of_T20
+4 1257_of_T20
+4 1258_of_T20
+4 1259_of_T20
+4 1260_of_T20
+4 1261_of_T20
+4 1262_of_T20
+4 1263_of_T20
+4 1264_of_T20
+4 1265_of_T20
+4 1266_of_T20
+4 1267_of_T20
+4 1268_of_T20
+4 1269_of_T20
+4 1270_of_T20
+4 1271_of_T20
+4 1272_of_T20
+4 1273_of_T20
+4 1274_of_T20
+4 1275_of_T20
+4 1276_of_T20
+4 1277_of_T20
+4 1278_of_T20
+4 1279_of_T20
+4 1280_of_T20
+4 1281_of_T20
+4 1282_of_T20
+4 1283_of_T20
+4 1284_of_T20
+4 1285_of_T20
+4 1286_of_T20
+4 1287_of_T20
+4 1288_of_T20
+4 1289_of_T20
+4 1290_of_T20
+4 1291_of_T20
+4 1292_of_T20
+4 1293_of_T20
+4 1294_of_T20
+4 1295_of_T20
+4 1296_of_T20
+4 1297_of_T20
+4 1298_of_T20
+4 1299_of_T20
+4 1300_of_T20
+4 1301_of_T20
+4 1302_of_T20
+4 1303_of_T20
+4 1304_of_T20
+4 1305_of_T20
+4 1306_of_T20
+4 1307_of_T20
+4 1308_of_T20
+4 1309_of_T20
+4 1310_of_T20
+4 1311_of_T20
+4 1312_of_T20
+4 1313_of_T20
+4 1314_of_T20
+4 1315_of_T20
+4 1316_of_T20
+4 1317_of_T20
+4 1318_of_T20
+4 1319_of_T20
+4 1320_of_T20
+4 1321_of_T20
+4 1322_of_T20
+4 1323_of_T20
+4 1324_of_T20
+4 1325_of_T20
+4 1326_of_T20
+4 1327_of_T20
+4 1328_of_T20
+4 1329_of_T20
+4 1330_of_T20
+4 1331_of_T20
+4 1332_of_T20
+4 1333_of_T20
+4 1334_of_T20
+4 1335_of_T20
+4 1336_of_T20
+4 1337_of_T20
+4 1338_of_T20
+4 1339_of_T20
+4 1340_of_T20
+4 1341_of_T20
+4 1342_of_T20
+4 1343_of_T20
+4 1344_of_T20
+4 1345_of_T20
+4 1346_of_T20
+4 1347_of_T20
+4 1348_of_T20
+4 1349_of_T20
+4 1350_of_T20
+4 1351_of_T20
+4 1352_of_T20
+4 1353_of_T20
+4 1354_of_T20
+4 1355_of_T20
+4 1356_of_T20
+4 1357_of_T20
+4 1358_of_T20
+4 1359_of_T20
+4 1360_of_T20
+4 1361_of_T20
+4 1362_of_T20
+4 1363_of_T20
+4 1364_of_T20
+4 1365_of_T20
+4 1366_of_T20
+4 1367_of_T20
+4 1368_of_T20
+4 1369_of_T20
+4 1370_of_T20
+4 1371_of_T20
+4 1372_of_T20
+4 1373_of_T20
+4 1374_of_T20
+4 1375_of_T20
+4 1376_of_T20
+4 1377_of_T20
+4 1378_of_T20
+4 1379_of_T20
+4 1380_of_T20
+4 1381_of_T20
+4 1382_of_T20
+4 1383_of_T20
+4 1384_of_T20
+4 1385_of_T20
+4 1386_of_T20
+4 1387_of_T20
+4 1388_of_T20
+4 1389_of_T20
+4 1390_of_T20
+4 1391_of_T20
+4 1392_of_T20
+4 1393_of_T20
+4 1394_of_T20
+4 1395_of_T20
+4 1396_of_T20
+4 1397_of_T20
+4 1398_of_T20
+4 1399_of_T20
+4 1400_of_T20
+4 1401_of_T20
+4 1402_of_T20
+4 1403_of_T20
+4 1404_of_T20
+4 1405_of_T20
+4 1406_of_T20
+4 1407_of_T20
+4 1408_of_T20
+4 1409_of_T20
+4 1410_of_T20
+4 1411_of_T20
+4 1412_of_T20
+4 1413_of_T20
+4 1414_of_T20
+4 1415_of_T20
+4 1416_of_T20
+4 1417_of_T20
+4 1418_of_T20
+4 1419_of_T20
+4 1420_of_T20
+4 1421_of_T20
+4 1422_of_T20
+4 1423_of_T20
+4 1424_of_T20
+4 1425_of_T20
+4 1426_of_T20
+4 1427_of_T20
+4 1428_of_T20
+4 1429_of_T20
+4 1430_of_T20
+4 1431_of_T20
+4 1432_of_T20
+4 1433_of_T20
+4 1434_of_T20
+4 1435_of_T20
+4 1436_of_T20
+4 1437_of_T20
+4 1438_of_T20
+4 1439_of_T20
+4 1440_of_T20
+4 1441_of_T20
+4 1442_of_T20
+4 1443_of_T20
+4 1444_of_T20
+4 1445_of_T20
+4 1446_of_T20
+4 1447_of_T20
+4 1448_of_T20
+4 1449_of_T20
+4 1450_of_T20
+4 1451_of_T20
+4 1452_of_T20
+4 1453_of_T20
+4 1454_of_T20
+4 1455_of_T20
+4 1456_of_T20
+4 1457_of_T20
+4 1458_of_T20
+4 1459_of_T20
+4 1460_of_T20
+4 1461_of_T20
+4 1462_of_T20
+4 1463_of_T20
+4 1464_of_T20
+4 1465_of_T20
+4 1466_of_T20
+4 1467_of_T20
+4 1468_of_T20
+4 1469_of_T20
+4 1470_of_T20
+4 1471_of_T20
+4 1472_of_T20
+4 1473_of_T20
+4 1474_of_T20
+4 1475_of_T20
+4 1476_of_T20
+4 1477_of_T20
+4 1478_of_T20
+4 1479_of_T20
+4 1480_of_T20
+4 1481_of_T20
+4 1482_of_T20
+4 1483_of_T20
+4 1484_of_T20
+4 1485_of_T20
+4 1486_of_T20
+4 1487_of_T20
+4 1488_of_T20
+4 1489_of_T20
+4 1490_of_T20
+4 1491_of_T20
+4 1498_of_T20
+4 1492_of_T20
+4 1493_of_T20
+4 1494_of_T20
+4 1495_of_T20
+4 1496_of_T20
+4 1497_of_T20
+4 1499_of_T20
+4 1500_of_T20
+4 1501_of_T20
+4 1502_of_T20
+4 1503_of_T20
+4 1504_of_T20
+4 1505_of_T20
+4 1506_of_T20
+4 1507_of_T20
+4 1508_of_T20
+4 1509_of_T20
+4 1510_of_T20
+4 1511_of_T20
+4 1512_of_T20
+4 1513_of_T20
+4 1514_of_T20
+4 1515_of_T20
+4 1516_of_T20
+4 1517_of_T20
+4 1518_of_T20
+4 1519_of_T20
+4 1520_of_T20
+4 1521_of_T20
+4 1522_of_T20
+4 1523_of_T20
+4 1524_of_T20
+4 1525_of_T20
+4 1526_of_T20
+4 1527_of_T20
+4 1528_of_T20
+4 1529_of_T20
+4 1530_of_T20
+4 1531_of_T20
+4 1532_of_T20
+4 1533_of_T20
+4 1534_of_T20
+4 1535_of_T20
+4 1536_of_T20
+4 1537_of_T20
+4 1538_of_T20
+4 1539_of_T20
+4 1540_of_T20
+4 1541_of_T20
+4 1542_of_T20
+4 1543_of_T20
+4 1544_of_T20
+4 1545_of_T20
+4 1546_of_T20
+4 1547_of_T20
+4 1548_of_T20
+4 1549_of_T20
+4 1550_of_T20
+4 1551_of_T20
+4 1552_of_T20
+4 1553_of_T20
+4 1554_of_T20
+4 1555_of_T20
+4 1556_of_T20
+4 1557_of_T20
+4 1558_of_T20
+4 1559_of_T20
+4 1560_of_T20
+4 1561_of_T20
+4 1562_of_T20
+4 1563_of_T20
+4 1564_of_T20
+4 1565_of_T20
+4 1566_of_T20
+4 1567_of_T20
+4 1568_of_T20
+4 1569_of_T20
+4 1570_of_T20
+4 1571_of_T20
+4 1572_of_T20
+4 1573_of_T20
+4 1574_of_T20
+4 1575_of_T20
+4 1576_of_T20
+4 1577_of_T20
+4 1578_of_T20
+4 1579_of_T20
+4 1580_of_T20
+4 1581_of_T20
+4 1582_of_T20
+4 1583_of_T20
+4 1584_of_T20
+4 1585_of_T20
+4 1586_of_T20
+4 1587_of_T20
+4 1588_of_T20
+4 1589_of_T20
+4 1590_of_T20
+4 1591_of_T20
+4 1592_of_T20
+4 1593_of_T20
+4 1594_of_T20
+4 1595_of_T20
+4 1596_of_T20
+4 1597_of_T20
+4 1598_of_T20
+4 1599_of_T20
+4 1600_of_T20
+4 1601_of_T20
+4 1602_of_T20
+4 1603_of_T20
+4 1604_of_T20
+4 1605_of_T20
+4 1606_of_T20
+4 1607_of_T20
+4 1608_of_T20
+4 1609_of_T20
+4 1610_of_T20
+4 1611_of_T20
+4 1612_of_T20
+4 1613_of_T20
+4 1614_of_T20
+4 1615_of_T20
+4 1616_of_T20
+4 1617_of_T20
+4 1618_of_T20
+4 1619_of_T20
+4 1620_of_T20
+4 1621_of_T20
+4 1622_of_T20
+4 1623_of_T20
+4 1624_of_T20
+4 1625_of_T20
+4 1626_of_T20
+4 1627_of_T20
+4 1628_of_T20
+4 1629_of_T20
+4 1630_of_T20
+4 1631_of_T20
+4 1632_of_T20
+4 1633_of_T20
+4 1634_of_T20
+4 1635_of_T20
+4 1636_of_T20
+4 1637_of_T20
+4 1638_of_T20
+4 1639_of_T20
+4 1640_of_T20
+4 1641_of_T20
+4 1642_of_T20
+4 1643_of_T20
+4 1644_of_T20
+4 1645_of_T20
+4 1646_of_T20
+4 1647_of_T20
+4 1648_of_T20
+4 1649_of_T20
+4 1650_of_T20
+4 1651_of_T20
+4 1652_of_T20
+4 1653_of_T20
+4 1654_of_T20
+4 1655_of_T20
+4 1656_of_T20
+4 1657_of_T20
+4 1658_of_T20
+4 1659_of_T20
+4 1660_of_T20
+4 1661_of_T20
+4 1662_of_T20
+4 1663_of_T20
+4 1664_of_T20
+4 1665_of_T20
+4 1666_of_T20
+4 1667_of_T20
+4 1668_of_T20
+4 1669_of_T20
+4 1670_of_T20
+4 1671_of_T20
+4 1672_of_T20
+4 1673_of_T20
+4 1674_of_T20
+4 1675_of_T20
+4 1676_of_T20
+4 1677_of_T20
+4 1678_of_T20
+4 1679_of_T20
+4 1680_of_T20
+4 1681_of_T20
+4 1682_of_T20
+4 1685_of_T20
+4 1683_of_T20
+4 1684_of_T20
+4 1686_of_T20
+4 1687_of_T20
+4 1688_of_T20
+4 1689_of_T20
+4 1690_of_T20
+4 1691_of_T20
+4 1692_of_T20
+4 1693_of_T20
+4 1694_of_T20
+4 1695_of_T20
+4 1696_of_T20
+4 1697_of_T20
+4 1698_of_T20
+4 1699_of_T20
+4 1700_of_T20
+4 1701_of_T20
+4 1702_of_T20
+4 1703_of_T20
+4 1704_of_T20
+4 1705_of_T20
+4 1706_of_T20
+4 1707_of_T20
+4 1708_of_T20
+4 1709_of_T20
+4 1710_of_T20
+4 1711_of_T20
+4 1712_of_T20
+4 1713_of_T20
+4 1714_of_T20
+4 1715_of_T20
+4 1716_of_T20
+4 1717_of_T20
+4 1718_of_T20
+4 1719_of_T20
+4 1720_of_T20
+4 1721_of_T20
+4 1722_of_T20
+4 1723_of_T20
+4 1724_of_T20
+4 1725_of_T20
+4 1726_of_T20
+4 1727_of_T20
+4 1728_of_T20
+4 1729_of_T20
+4 1730_of_T20
+4 1731_of_T20
+4 1732_of_T20
+4 1733_of_T20
+4 1734_of_T20
+4 1735_of_T20
+4 1736_of_T20
+4 1737_of_T20
+4 1738_of_T20
+4 1739_of_T20
+4 1740_of_T20
+4 1741_of_T20
+4 1742_of_T20
+4 1743_of_T20
+4 1744_of_T20
+4 1745_of_T20
+4 1746_of_T20
+4 1747_of_T20
+4 1748_of_T20
+4 1749_of_T20
+4 1750_of_T20
+4 1751_of_T20
+4 1752_of_T20
+4 1753_of_T20
+4 1754_of_T20
+4 1755_of_T20
+4 1756_of_T20
+4 1757_of_T20
+4 1758_of_T20
+4 1759_of_T20
+4 1760_of_T20
+4 1761_of_T20
+4 1762_of_T20
+4 1763_of_T20
+4 1764_of_T20
+4 1765_of_T20
+4 1766_of_T20
+4 1767_of_T20
+4 1768_of_T20
+4 1769_of_T20
+4 1770_of_T20
+4 1771_of_T20
+4 1772_of_T20
+4 1773_of_T20
+4 1774_of_T20
+4 1775_of_T20
+4 1776_of_T20
+4 1777_of_T20
+4 1778_of_T20
+4 1779_of_T20
+4 1780_of_T20
+4 1781_of_T20
+4 1782_of_T20
+4 1783_of_T20
+4 1784_of_T20
+4 1785_of_T20
+4 1786_of_T20
+4 1787_of_T20
+4 1788_of_T20
+4 1789_of_T20
+4 1790_of_T20
+4 1791_of_T20
+4 1792_of_T20
+4 1793_of_T20
+4 1794_of_T20
+4 1795_of_T20
+4 1796_of_T20
+4 1797_of_T20
+4 1798_of_T20
+4 1799_of_T20
+4 1800_of_T20
+4 1801_of_T20
+4 1802_of_T20
+4 1803_of_T20
+4 1804_of_T20
+4 1805_of_T20
+4 1806_of_T20
+4 1807_of_T20
+4 1808_of_T20
+4 1809_of_T20
+4 1810_of_T20
+4 1811_of_T20
+4 1812_of_T20
+4 1813_of_T20
+4 1814_of_T20
+4 1815_of_T20
+4 1816_of_T20
+4 1817_of_T20
+4 1818_of_T20
+4 1819_of_T20
+4 1820_of_T20
+4 1821_of_T20
+4 1822_of_T20
+4 1823_of_T20
+4 1824_of_T20
+4 1825_of_T20
+4 1826_of_T20
+4 1827_of_T20
+4 1828_of_T20
+4 1829_of_T20
+4 1830_of_T20
+4 1831_of_T20

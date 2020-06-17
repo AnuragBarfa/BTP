@@ -1,0 +1,103 @@
+<html>
+	<head>
+		<style type="text/css">
+			body {
+			  padding-top: 17vh;
+			  font-size: 14px;
+			  background: #eee;
+			}
+			fieldset {
+				width: 1000px;
+				position: relative;
+				margin:auto;
+				padding-left: 20px;
+			}
+			p {
+				font-size: 20px;
+			}
+			legend {
+				font-size: 17px;
+			}
+		</style>
+		<script>
+			window.onload = function () {
+			var x={{train}};
+			var data1=[];
+			var data2=[];
+			{% for epoch in train %}
+				data1.push({x:{{epoch.0}}, y:{{epoch.1}} });
+				data2.push({x:{{epoch.0}}, y:{{epoch.2}} });
+			{% endfor %}
+			var chart = new CanvasJS.Chart("chartContainer", {
+				title: {
+					text: "Training Results"
+				},
+				axisX: {
+					title: "Epoch",
+				},
+				axisY2: {
+					title: "NDCG@100 value",
+				},
+				toolTip: {
+					shared: true
+				},
+				legend: {
+					cursor: "pointer",
+					verticalAlign: "bottom",
+					horizontalAlign: "center",
+					dockInsidePlotArea: true,
+					itemclick: toogleDataSeries
+				},
+				data: [{
+					type:"line",
+					axisYType: "secondary",
+					name: "For Training data",
+					showInLegend: true,
+					markerSize: 0,
+					dataPoints: data1
+				},
+				{
+					type: "line",
+					axisYType: "secondary",
+					name: "For Validation data",
+					showInLegend: true,
+					markerSize: 0,
+					dataPoints: data2
+				}]
+			});
+			chart.render();
+
+			function toogleDataSeries(e){
+				if (typeof(e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+					e.dataSeries.visible = false;
+				} else{
+					e.dataSeries.visible = true;
+				}
+				chart.render();
+			}
+
+			}
+			</script>
+	</head>
+	<body>
+		<fieldset>
+			<legend>Model Training Results</legend>
+			<div style="display: inline-block;width: 500px;">
+				<p>{{arg.4}}</p>
+				<p>Parameters used : Default</p>
+				<p>{{arg.9}}</p>
+				<p>Input Details : {{input.1|slice:"1:-1"}}</p>
+				<p>{{arg.2}}</p>
+				<p>{{trainRes.1}}</p>
+				<p>{{trainRes.2}}</p>
+				<p><a href="{% url 'home:download_file' file_name=ranking_method%}" target="_blank">Click here</a> to download the trained model</p>
+			</div>
+			<div style="display: inline-block;width: 400px;">
+				<div id="chartContainer" style="height: 300px; width: 450px;"></div>
+			</div>
+			
+		</fieldset>	
+		<p style="position:relative;margin:auto;width: 150px;"><a href="{% url 'home:home' %}">Back to home</a></p>
+		<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+	</body>
+</html>
