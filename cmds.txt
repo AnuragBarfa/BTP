@@ -36,3 +36,5 @@ java -jar RankLib-2.13.jar -load listnet.txt -test MyTest.txt -metric2T ERR@1500
 java -cp RankLib-2.13.jar;commons-math3-3.5.jar ciir.umass.edu.features.FeatureManager -feature_stats lambdaMart.txt
 
 java -cp RankLib-2.13.jar ciir.umass.edu.eval.Analyzer -all output/ -base AdaRank.txt > analysis.txt
+
+java -cp RankLib-2.13.jar;commons-math3-3.5.jar ciir.umass.edu.features.FeatureManager -feature_stats trainedModels\intermidiate_randomForests.txt
